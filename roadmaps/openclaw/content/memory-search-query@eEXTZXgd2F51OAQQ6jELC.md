@@ -4,4 +4,4 @@
 
 Visit the following resources to learn more:
 
-- [@official@Memory](https://docs.openclaw.ai/cli/index#memory)
+- [@official@Memory](https://docs.openclaw.ai/cli)

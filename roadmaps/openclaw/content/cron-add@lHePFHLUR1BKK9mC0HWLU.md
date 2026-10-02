@@ -5,4 +5,4 @@
 Visit the following resources to learn more:
 
 - [@official@Scheduled Tasks](https://docs.openclaw.ai/automation/cron-jobs)
-- [@official@Cron](https://docs.openclaw.ai/cli/index#cron)
+- [@official@Cron](https://docs.openclaw.ai/cli)

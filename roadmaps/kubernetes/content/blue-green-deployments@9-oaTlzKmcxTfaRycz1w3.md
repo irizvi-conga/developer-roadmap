@@ -4,5 +4,4 @@ It is a deployment strategy used in Kubernetes for deploying new versions of an 
 
 Visit the following resources to learn more:
 
-- [@article@Create a Kubernetes Blue Green Deployment](https://developer.harness.io/docs/continuous-delivery/cd-execution/kubernetes-executions/create-a-kubernetes-blue-green-deployment/)
 - [@video@Kubernetes - Blue/Green Deployments](https://www.youtube.com/watch?v=jxhpTGQ484Y)

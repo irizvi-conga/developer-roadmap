@@ -5,4 +5,4 @@ Device pairing ensures only verified devices can talk to your agent. Keeping the
 Visit the following resources to learn more:
 
 - [@official@Pairing](https://docs.openclaw.ai/channels/pairing#pairing)
-- [@official@Allowlists (DM + groups) - terminology](https://docs.openclaw.ai/gateway/security/index#allowlists-dm-+-groups-terminology)
+- [@official@Allowlists (DM + groups) - terminology](https://docs.openclaw.ai/gateway/security)

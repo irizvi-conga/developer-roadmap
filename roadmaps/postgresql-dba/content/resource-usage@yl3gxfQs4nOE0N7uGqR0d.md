@@ -7,4 +7,3 @@ Key parameters include `shared_buffers`, typically set to 25-40% of total RAM, t
 Visit the following resources to learn more:
 
 - [@official@Resource Consumption Documentation](https://www.postgresql.org/docs/current/runtime-config-resource.html#RUNTIME-CONFIG-RESOURCE-MEMORY)
-- [@article@effective_cache_size](https://docs.aws.amazon.com/prescriptive-guidance/latest/tuning-postgresql-parameters/effective-cache-size.html)

@@ -5,5 +5,4 @@ Arbitrum is a Layer-2 scaling solution designed to improve the speed and reduce 
 Visit the following resources to learn more:
 
 - [@official@Arbitrum - The Future of Ethereum](https://arbitrum.io/)
-- [@official@Getting Started with Arbitrum](https://docs.arbitrum.io/welcome/get-started)
 - [@article@Arbitrum Whitepaper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf)

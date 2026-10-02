@@ -5,4 +5,4 @@
 Visit the following resources to learn more:
 
 - [@official@Memory overview](https://docs.openclaw.ai/concepts/memory#memory-overview)
-- [@official@memory](https://docs.openclaw.ai/cli/index#memory)
+- [@official@memory](https://docs.openclaw.ai/cli)

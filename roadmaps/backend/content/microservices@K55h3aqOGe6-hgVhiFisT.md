@@ -5,6 +5,5 @@ Microservices architecture structures applications as loosely coupled, independe
 Visit the following resources to learn more:
 
 - [@article@Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html)
-- [@article@What is Microservices?](https://smartbear.com/solutions/microservices/)
 - [@article@Microservices 101](https://thenewstack.io/microservices-101/)
 - [@video@Microservices explained in 5 minutes](https://www.youtube.com/watch?v=lL_j7ilk7rc)

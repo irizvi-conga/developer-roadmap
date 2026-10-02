@@ -4,5 +4,5 @@ Every configuration change is an opportunity to accidentally introduce a vulnera
 
 Visit the following resources to learn more:
 
-- [@official@Quick check: openclaw security audit](https://docs.openclaw.ai/gateway/security/index#quick-check-openclaw-security-audit)
+- [@official@Quick check: openclaw security audit](https://docs.openclaw.ai/gateway/security)
 - [@official@Formal Verification (Security Models)](https://docs.openclaw.ai/security/formal-verification)
