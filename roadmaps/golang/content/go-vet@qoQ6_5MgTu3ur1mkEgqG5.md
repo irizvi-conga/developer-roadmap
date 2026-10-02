@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@go vet](https://pkg.go.dev/cmd/vet)
 - [@article@Go: Vet Command Is More Powerful Than You Think](https://medium.com/a-journey-with-go/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5)
-- [@article@Using go vet for Code Analysis](https://medium.com/a-journey-with-go/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5)

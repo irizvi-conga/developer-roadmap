@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@C++ Pointers](https://www.youtube.com/watch?v=slzcWKWCMBg)
 - [@article@Function Pointer in C++](https://www.scaler.com/topics/cpp/function-pointer-cpp/)
-- [@video@C++ pointers explained easy 👈](https://www.youtube.com/watch?v=slzcWKWCMBg)

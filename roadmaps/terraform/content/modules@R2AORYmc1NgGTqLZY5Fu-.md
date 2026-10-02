@@ -5,5 +5,4 @@ Modules are reusable packages of Terraform configuration that group related reso
 Visit the following resources to learn more:
 
 - [@official@Modules Overview - Configuration Language | Terraform](https://developer.hashicorp.com/terraform/language/modules)
-- [@official@Terraform Modules](https://developer.hashicorp.com/terraform/language/modules)
 - [@official@Modules - Terraform Registry](https://registry.terraform.io/browse/modules)

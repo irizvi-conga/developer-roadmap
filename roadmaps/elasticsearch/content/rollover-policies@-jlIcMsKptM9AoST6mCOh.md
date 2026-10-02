@@ -8,5 +8,4 @@ Visit the following resources to learn more:
 - [@official@Rollover](https://www.elastic.co/docs/reference/elasticsearch/index-lifecycle-actions/ilm-rollover)
 - [@official@Roll over to a new index](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-indices-rollover)
 - [@official@Configuring rollover](https://www.elastic.co/docs/manage-data/lifecycle/index-lifecycle-management/ilm-tutorials#configuring-rollover)
-- [@article@Elasticsearch Index Life cycle and Rollover Policy](https://www.elastic.co/docs/reference/elasticsearch/index-lifecycle-actions/ilm-rollover)
 - [@video@Optimizing Index Operations in Elasticsearch: Shrink & Rollover - Daily Elastic Byte S01E05](https://www.youtube.com/watch?v=9U9OBWfxC-M)

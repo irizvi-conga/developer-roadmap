@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@SQLite](https://www.sqlite.org/index.html)
 - [@article@SQLite Tutorial](https://www.sqlitetutorial.net/)
 - [@article@SQLite Introduction](https://www.youtube.com/watch?v=8Xyn8R9eKB8)
-- [@video@SQLite Introduction - Beginners Guide to SQL and Databases](https://www.youtube.com/watch?v=8Xyn8R9eKB8)

@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@MySQL](https://www.mysql.com/)
 - [@article@MySQL Tutorial](https://www.mysqltutorial.org/)
 - [@article@MySQL Complete Course](https://www.youtube.com/watch?v=5OdVJbNCSso)
-- [@video@MySQL Full Course](https://www.youtube.com/watch?v=5OdVJbNCSso)

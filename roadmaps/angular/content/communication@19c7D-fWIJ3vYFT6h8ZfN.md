@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Inputs](https://angular.dev/guide/components/inputs)
 - [@official@Outputs](https://angular.dev/guide/components/outputs)
 - [@official@Model Inputs](https://angular.dev/guide/signals/model)
-- [@official@Custom events with outputs](https://angular.dev/guide/components/outputs)

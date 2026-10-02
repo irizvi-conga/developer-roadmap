@@ -5,4 +5,3 @@ A speedtest is a diagnostic tool that measures the actual throughput of a networ
 Visit the following resources to learn more:
 
 - [@article@speedtest](https://www.speedtest.net/)
-- [@article@Google Fiber Internet Speed Test](https://www.speedtest.net/)

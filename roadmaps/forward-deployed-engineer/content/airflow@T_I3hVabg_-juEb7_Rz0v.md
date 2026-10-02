@@ -5,5 +5,4 @@ Apache Airflow is an open-source workflow orchestration platform for scheduling 
 Visit the following resources to learn more:
 
 - [@official@Airflow Docs](https://airflow.apache.org/docs/)
-- [@opensource@airflow](https://airflow.apache.org/docs/)
 - [@video@Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT)

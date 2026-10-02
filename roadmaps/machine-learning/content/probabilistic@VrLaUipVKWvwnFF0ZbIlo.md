@@ -5,4 +5,3 @@ Probabilistic clustering assumes that the data is generated from a mixture of pr
 Visit the following resources to learn more:
 
 - [@article@Gaussian mixture models](https://scikit-learn.org/stable/modules/mixture.html#mixture)
-- [@article@Gaussian Mixture Model Explained](https://scikit-learn.org/stable/modules/mixture.html#mixture)

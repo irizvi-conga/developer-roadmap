@@ -5,5 +5,4 @@ Context evaluation measures whether the information delivered to a model actuall
 Visit the following resources to learn more:
 
 - [@article@AI Agent Evaluation](https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/)
-- [@article@Effective Context Engineering for AI Agents: A Developer’s Guide](https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/)
 - [@video@The agent evaluation revolution](https://www.youtube.com/watch?v=WZZLtwnZ4w0)

@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@Joining Tables](https://guides.rubyonrails.org/active_record_querying.html#joining-tables)
 - [@article@Getting Really Good at Rails :joins](https://medium.com/swlh/getting-really-good-at-rails-joins-93fd5b33fa8e)
-- [@article@Joins](https://medium.com/swlh/getting-really-good-at-rails-joins-93fd5b33fa8e)
 - [@article@Understanding multiple joins in ActiveRecord](https://dev.to/anakbns/multiple-joins-with-activerecord-33j5)

@@ -5,6 +5,5 @@ User authentication and authorization are fundamental aspects of web application
 Visit the following resources to learn more:
 
 - [@official@Using the Django authentication system](https://docs.djangoproject.com/en/6.0/topics/auth/default/#auth-admin)
-- [@official@Managing users in the admin](https://docs.djangoproject.com/en/6.0/topics/auth/default/#auth-admin)
 - [@article@Django Tutorial Part 8: User authentication and permissions](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Authentication)
 - [@video@Django Permissions system - deep dive with Users, Groups and Permissions](https://www.youtube.com/watch?v=IF_ZpCiZKkw)

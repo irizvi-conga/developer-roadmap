@@ -11,4 +11,3 @@ Visit the following resources to learn more:
 - [@official@Toggle](https://developer.apple.com/documentation/swiftui/toggle)
 - [@official@Slider](https://developer.apple.com/documentation/swiftui/slider)
 - [@official@Divider](https://developer.apple.com/documentation/swiftui/divider)
-- [@article@SwiftUI - UI Controls](https://developer.apple.com/documentation/swiftui/controls-and-indicators)

@@ -6,7 +6,6 @@ Also, you can also write `if` as an expression, which lets you assign its return
 
 Visit the following resources to learn more:
 
-- [@official@https://kotlinlang.org/docs/control-flow.html#if-expression](https://developer.android.com/codelabs/basic-android-kotlin-compose-conditionals#1)
 - [@article@Use if/else statements to express conditions](https://developer.android.com/codelabs/basic-android-kotlin-compose-conditionals#1)
 - [@article@Use if/else and when as expressions](https://developer.android.com/codelabs/basic-android-kotlin-compose-conditionals#3)
 - [@video@Control Flows | if else | when - the cooler switch](https://www.youtube.com/watch?v=Wp2UU4yKjqM)

@@ -6,5 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@NPM Documentation](https://docs.npmjs.com/)
 - [@official@What is npm?](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager)
-- [@official@An introduction to the npm package manager](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager)
 - [@video@NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)

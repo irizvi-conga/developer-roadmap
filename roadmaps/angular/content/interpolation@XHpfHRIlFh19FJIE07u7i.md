@@ -5,4 +5,3 @@ Interpolation refers to embedding expressions into marked up text. By default, i
 Visit the following resources to learn more:
 
 - [@official@Interpolation](https://angular.dev/guide/templates/interpolation)
-- [@official@Displaying values with interpolation](https://angular.dev/guide/templates/interpolation)
