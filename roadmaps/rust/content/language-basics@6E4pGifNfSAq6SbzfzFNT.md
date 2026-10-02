@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Introduction - Rust By Example](https://doc.rust-lang.org/stable/rust-by-example/)
 - [@article@How to Learn Rust in 2025: A Complete Beginner's Guide](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)
-- [@feed@Explore top posts about Rust](https://app.daily.dev/tags/rust?ref=roadmapsh)

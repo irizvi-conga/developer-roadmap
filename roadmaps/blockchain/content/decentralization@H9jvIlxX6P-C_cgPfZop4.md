@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@What is Decentralization?](https://aws.amazon.com/blockchain/decentralization-in-blockchain/)
 - [@article@What is Decentralization in Blockchain?](https://www.blockchain-council.org/blockchain/what-is-decentralization-in-blockchain/)
 - [@video@What Is Decentralization in Crypto, Exactly?](https://youtu.be/5iesIki27zw?si=3tUygdRSAveuxGlr)
-- [@feed@Explore top posts about Decentralization](https://app.daily.dev/tags/decentralization?ref=roadmapsh)

@@ -10,4 +10,3 @@ Visit the following resources to learn more:
 - [@article@Building Pipelines In Apache Airflow – For Beginners](https://towardsdatascience.com/building-pipelines-in-apache-airflow-for-beginners-58f87a1512d5/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
 - [@video@What is Apache Airflow? For beginners](https://www.youtube.com/watch?v=CGxxVj13sOs)
 - [@video@Apache Airflow Tutorial for Data Engineers](https://www.youtube.com/watch?v=y5rYZLBZ_Fw)
-- [@feed@Explore top posts about Apache Airflow](https://app.daily.dev/tags/apache-airflow?ref=roadmapsh)

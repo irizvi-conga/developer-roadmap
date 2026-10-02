@@ -5,4 +5,3 @@ The TS Playground is an online, interactive environment that allows you to write
 Visit the following resources to learn more:
 
 - [@official@TypeScript Official - Playground](https://www.typescriptlang.org/play)
-- [@feed@Explore top posts about TypeScript](https://app.daily.dev/tags/typescript?ref=roadmapsh)

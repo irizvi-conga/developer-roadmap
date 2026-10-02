@@ -10,4 +10,3 @@ Visit the following resources to learn more:
 - [@article@Blockchain for beginners- basic guiding principles](https://blockchain-observatory.ec.europa.eu/document/download/1063effa-59cc-4df4-aeee-d2cf94f69178_en?filename=Blockchain_For_Beginners_A_EUBOF_Guide.pdf)
 - [@video@How does a blockchain work?](https://youtu.be/SSo_EIwHSd4)
 - [@video@What Is a Blockchain? | Blockchain Basics for Developers](https://youtu.be/4ff9esY_4aU)
-- [@feed@Explore top posts about Blockchain](https://app.daily.dev/tags/blockchain?ref=roadmapsh)

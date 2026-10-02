@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@roadmap@Visit Dedicated Angular Roadmap](https://roadmap.sh/angular)
 - [@official@Angular](https://angular.dev/)
 - [@official@Getting Started with Angular](https://angular.dev/overview)
-- [@feed@Explore top posts about Angular](https://app.daily.dev/tags/angular?ref=roadmapsh)

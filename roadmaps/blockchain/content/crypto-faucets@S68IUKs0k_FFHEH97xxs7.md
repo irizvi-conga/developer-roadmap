@@ -5,4 +5,3 @@ Crypto faucets are websites or apps that distribute small amounts of cryptocurre
 Visit the following resources to learn more:
 
 - [@article@What Is A Crypto Faucet?](https://academy.binance.com/en/articles/what-is-a-crypto-faucet)
-- [@feed@Explore top posts about Crypto](https://app.daily.dev/tags/crypto?ref=roadmapsh)

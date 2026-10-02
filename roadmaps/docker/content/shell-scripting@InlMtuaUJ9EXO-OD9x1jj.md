@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@Shell Scripting Tutorial](https://www.shellscript.sh/)
 - [@article@Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - [@video@Bash Scripting Full Course](https://www.youtube.com/watch?v=tK9Oc6AEnR4)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

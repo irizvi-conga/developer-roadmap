@@ -5,4 +5,3 @@ These design patterns are useful for building reliable, scalable, secure applica
 Visit the following resources to learn more:
 
 - [@article@Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
-- [@feed@Explore top posts about Cloud](https://app.daily.dev/tags/cloud?ref=roadmapsh)

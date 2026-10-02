@@ -5,4 +5,3 @@ Ethers.js is a JavaScript library that simplifies interacting with the Ethereum 
 Visit the following resources to learn more:
 
 - [@official@Ethers.js Documentation](https://docs.ethers.io/)
-- [@feed@Explore top posts about JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)

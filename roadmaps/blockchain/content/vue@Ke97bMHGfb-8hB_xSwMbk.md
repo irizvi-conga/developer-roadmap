@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@official@Vue.js Guide](https://vuejs.org/v2/guide/)
 - [@video@Vue.js Course for Beginners](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 - [@video@Vue.js Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
-- [@feed@Explore top posts about Vue.js](https://app.daily.dev/tags/vuejs?ref=roadmapsh)

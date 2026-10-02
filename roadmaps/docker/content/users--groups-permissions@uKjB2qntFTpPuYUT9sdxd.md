@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@Linux File Permissions Explained](https://www.redhat.com/en/blog/linux-file-permissions-explained)
 - [@article@Users and Groups in Linux](https://wiki.archlinux.org/title/Users_and_groups)
 - [@official@Dockerfile USER Instruction](https://docs.docker.com/reference/dockerfile/#user)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

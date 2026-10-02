@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Serde](https://serde.rs/)
 - [@opensource@serde-rs/serde: Serialization framework for Rust](https://github.com/serde-rs/serde)
 - [@article@Docs.rs: JSON](https://docs.rs/json/latest/json/)
-- [@feed@Explore top posts about Rust](https://app.daily.dev/tags/rust?ref=roadmapsh)

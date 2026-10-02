@@ -5,4 +5,3 @@ GraphQL on the backend involves implementing servers that execute GraphQL querie
 Visit the following resources to learn more:
 
 - [@article@How to use GraphQL in Backend?](https://www.howtographql.com/)
-- [@feed@Explore top posts about Backend Development](https://app.daily.dev/tags/backend?ref=roadmapsh)

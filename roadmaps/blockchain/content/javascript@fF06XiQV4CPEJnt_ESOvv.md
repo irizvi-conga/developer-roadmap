@@ -10,4 +10,3 @@ Visit the following resources to learn more:
 - [@article@Eloquent Javascript - Book](https://eloquentjavascript.net/)
 - [@video@JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)
 - [@video@Node.js Tutorial for Beginners](https://www.youtube.com/watch?v=TlB_eWDSMt4)
-- [@feed@Explore top posts about JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)

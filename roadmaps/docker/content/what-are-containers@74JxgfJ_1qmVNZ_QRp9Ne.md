@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@course@Introduction to Containers - AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/106/introduction-to-containers)
 - [@official@What is a Container?](https://www.docker.com/resources/what-container/)
-- [@feed@Explore top posts about Containers](https://app.daily.dev/tags/containers?ref=roadmapsh)

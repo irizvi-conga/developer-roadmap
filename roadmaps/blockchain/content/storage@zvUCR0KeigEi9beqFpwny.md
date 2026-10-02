@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Decentralized Storage](https://ethereum.org/en/developers/docs/storage/)
 - [@article@How IPFS works](https://docs.ipfs.tech/concepts/how-ipfs-works/)
 - [@article@Data Locations - Storage, Memory, and Calldata](https://www.cyfrin.io/glossary/data-locations-storage-memory-and-calldata-solidity-code-example)
-- [@feed@Explore top posts about Storage](https://app.daily.dev/tags/storage?ref=roadmapsh)

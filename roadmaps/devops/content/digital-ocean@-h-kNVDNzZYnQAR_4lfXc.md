@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@DigitalOcean](https://www.digitalocean.com/)
 - [@video@Getting Started With Kubernetes on DigitalOcean](https://www.youtube.com/watch?v=cJKdo-glRD0)
-- [@feed@Explore top posts about DigitalOcean](https://app.daily.dev/tags/digitalocean?ref=roadmapsh)

@@ -5,4 +5,3 @@ Smart contract monitoring involves continuously observing and analyzing the acti
 Visit the following resources to learn more:
 
 - [@article@On-Chain Security: What’s Lurking in Your Web3 Project?](https://www.quillaudits.com/blog/web3-security/on-chain-security-monitoring)
-- [@feed@Explore top posts about Monitoring](https://app.daily.dev/tags/monitoring?ref=roadmapsh)

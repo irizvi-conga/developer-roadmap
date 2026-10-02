@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Why use Puppeteer?](https://www.kiltandcode.com/puppeteer-sharp-crawl-the-web-using-csharp-and-headless-chrome/)
 - [@article@Documentations of Puppeteer](https://www.puppeteersharp.com/)
-- [@feed@Explore top posts about Crawling](https://app.daily.dev/tags/crawling?ref=roadmapsh)

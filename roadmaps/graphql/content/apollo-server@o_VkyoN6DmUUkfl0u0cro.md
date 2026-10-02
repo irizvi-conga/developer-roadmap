@@ -5,4 +5,3 @@ Apollo Server is a popular open-source library for building GraphQL servers in J
 Visit the following resources to learn more:
 
 - [@article@Apollo Tutorial - Introduction](https://www.howtographql.com/react-apollo/0-introduction/)
-- [@feed@Explore top posts about Apollo](https://app.daily.dev/tags/apollo?ref=roadmapsh)

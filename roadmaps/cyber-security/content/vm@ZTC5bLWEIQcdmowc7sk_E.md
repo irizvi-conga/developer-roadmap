@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@What is a Virtual Machine and how does it work?](https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-a-virtual-machine)
 - [@video@Virtualization Explained](https://www.youtube.com/watch?v=UBVVq-xz5i0)
-- [@feed@Explore top posts about Infrastructure](https://app.daily.dev/tags/infrastructure?ref=roadmapsh)

@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@official@Learn Rust](https://www.rust-lang.org/learn)
 - [@article@Visit the Dedicated Rust Roadmap](https://roadmap.sh/rust)
 - [@article@How to Build and Deploy a Smart Contract With Rust and the Gear Protocol](https://www.freecodecamp.org/news/build-and-deploy-smart-contract-rust-gear-protocol/)
-- [@feed@Explore top posts about Rust](https://app.daily.dev/tags/rust?ref=roadmapsh)

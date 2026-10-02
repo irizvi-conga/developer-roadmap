@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@article@The Kubernetes Network Security Effect](https://thenewstack.io/the-kubernetes-network-security-effect/)
 - [@article@Kubernetes Security Best Practices to Keep You out of the News](https://thenewstack.io/kubernetes-security-best-practices-to-keep-you-out-of-the-news/)
 - [@video@Kubernetes Security Best Practices](https://www.youtube.com/watch?v=oBf5lrmquYI)
-- [@feed@Explore top posts about Security](https://app.daily.dev/tags/security?ref=roadmapsh)

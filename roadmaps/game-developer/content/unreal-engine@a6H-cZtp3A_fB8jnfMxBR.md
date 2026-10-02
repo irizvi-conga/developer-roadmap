@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Unreal Engine Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation)
 - [@official@Unreal Engine YouTube Channel](https://m.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ)
+- [@article@Unreal Source Discord](https://discord.gg/unrealsource)
 - [@video@Unreal in 100 Seconds](https://www.youtube.com/watch?v=DXDe-2BC4cE)
-- [@feed@Unreal Source Discord](https://discord.gg/unrealsource)

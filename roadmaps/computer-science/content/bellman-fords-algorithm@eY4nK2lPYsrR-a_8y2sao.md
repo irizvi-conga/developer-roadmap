@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@video@Bellman-Ford - MIT](https://www.youtube.com/watch?v=f9cVS_URPc0&ab_channel=MITOpenCourseWare)
 - [@video@Bellman-Ford in 4 Minutes](https://www.youtube.com/watch?v=9PHkk0UavIM)
-- [@feed@Explore top posts about Data Science](https://app.daily.dev/tags/data-science?ref=roadmapsh)

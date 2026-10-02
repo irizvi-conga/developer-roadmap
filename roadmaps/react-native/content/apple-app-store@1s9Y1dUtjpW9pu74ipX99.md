@@ -5,4 +5,3 @@ The App Store is Apple's official platform for distributing iOS apps to users wi
 Visit the following resources to learn more:
 
 - [@official@Publishing to Apple App Store](https://reactnative.dev/docs/publishing-to-app-store)
-- [@feed@Explore top posts about App Store](https://app.daily.dev/tags/app-store?ref=roadmapsh)

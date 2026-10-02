@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@official@Terraform Documentation](https://www.terraform.io/docs)
 - [@official@Terraform Tutorials](https://learn.hashicorp.com/terraform)
 - [@article@How to Scale Your Terraform Infrastructure](https://thenewstack.io/how-to-scale-your-terraform-infrastructure/)
-- [@feed@Explore top posts about Terraform](https://app.daily.dev/tags/terraform?ref=roadmapsh)

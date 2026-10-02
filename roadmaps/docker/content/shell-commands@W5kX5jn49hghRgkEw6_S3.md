@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@Linux Command Line Basics](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 - [@article@Shell Commands Every Developer Should Know](https://www.codecademy.com/article/command-line-commands)
 - [@video@Linux Commands for Beginners](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

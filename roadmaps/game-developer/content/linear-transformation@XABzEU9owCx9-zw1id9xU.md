@@ -5,4 +5,3 @@ A linear transformation is a mapping between vector spaces that preserves vector
 Visit the following resources to learn more:
 
 - [@article@Linear Transformation](https://en.wikipedia.org/wiki/Linear_map)
-- [@feed@Explore top posts about Math](https://app.daily.dev/tags/math?ref=roadmapsh)

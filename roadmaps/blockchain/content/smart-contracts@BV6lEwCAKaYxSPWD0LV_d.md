@@ -10,4 +10,3 @@ Visit the following resources to learn more:
 - [@article@Introduction to smart contracts - Ethereum](https://ethereum.org/en/smart-contracts/)
 - [@article@Smart Contract Libraries](https://ethereum.org/en/developers/docs/smart-contracts/libraries/)
 - [@video@Smart Contracts - Simply Explained](https://youtu.be/ZE2HxTmxfrI)
-- [@feed@Explore top posts about Smart Contracts](https://app.daily.dev/tags/smart-contracts?ref=roadmapsh)

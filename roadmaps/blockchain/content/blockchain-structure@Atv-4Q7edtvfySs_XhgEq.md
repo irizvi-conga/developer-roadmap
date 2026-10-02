@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@Blockchain Architecture Basics: Components, Structure, Benefits & Creation](https://mlsdev.com/blog/156-how-to-build-your-own-blockchain-architecture)
 - [@article@Blockchain Architecture 101: Components, Structure, and Benefits](https://komodoplatform.com/en/academy/blockchain-architecture-101/)
 - [@article@Blockchain Architecture Layers: Guide And Topology](https://www.cyfrin.io/blog/blockchain-architecture-layers-what-is-it)
-- [@feed@Explore top posts about Blockchain](https://app.daily.dev/tags/blockchain?ref=roadmapsh)

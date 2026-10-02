@@ -5,4 +5,3 @@ An Object-Relational Mapper, or ORM, translates data between a relational databa
 Visit the following resources to learn more:
 
 - [@article@Why do you need an ORM?](https://enterprisecraftsmanship.com/posts/do-you-need-an-orm/)
-- [@feed@Explore top posts about Backend Development](https://app.daily.dev/tags/backend?ref=roadmapsh)

@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@APIs with ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
 - [@article@What are RESTful APIs?](https://www.pragimtech.com/blog/blazor/what-are-restful-apis/)
 - [@video@Tutorial of Rest and Restful API](https://www.youtube.com/watch?v=4r1CIUs5s2I)
-- [@feed@Explore top posts about REST API](https://app.daily.dev/tags/rest-api?ref=roadmapsh)

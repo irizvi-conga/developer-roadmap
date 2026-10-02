@@ -5,4 +5,3 @@ Structured programming is a programming paradigm that emphasizes the use of well
 Visit the following resources to learn more:
 
 - [@article@Structured Programming Wikipedia](https://en.wikipedia.org/wiki/Structured_programming)
-- [@feed@Explore top posts about General Programming](https://app.daily.dev/tags/general-programming?ref=roadmapsh)

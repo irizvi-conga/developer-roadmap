@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@MS SQL website](https://www.microsoft.com/en-ca/sql-server/)
 - [@article@Tutorials for SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15)
 - [@video@SQL Server tutorial for beginners](https://www.youtube.com/watch?v=-EPMOaV7h_Q)
-- [@feed@Explore top posts about SQL](https://app.daily.dev/tags/sql?ref=roadmapsh)

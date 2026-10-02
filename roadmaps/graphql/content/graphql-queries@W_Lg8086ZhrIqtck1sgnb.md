@@ -5,4 +5,3 @@ GraphQL queries are client requests to retrieve specific data from a server. The
 Visit the following resources to learn more:
 
 - [@official@What are GraphQL Queries?](https://graphql.org/learn/queries/)
-- [@feed@Explore top posts about GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)

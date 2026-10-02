@@ -5,4 +5,3 @@ Peer-to-peer is a distributed architecture where each node, called a peer, acts 
 Visit the following resources to learn more:
 
 - [@article@Peer to Peer Architecture](https://student.cs.uwaterloo.ca/~cs446/1171/Arch_Design_Activity/Peer2Peer.pdf)
-- [@feed@Explore top posts about Peer-to-Peer](https://app.daily.dev/tags/peer-to-peer?ref=roadmapsh)

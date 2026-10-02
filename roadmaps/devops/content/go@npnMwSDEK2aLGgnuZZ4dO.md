@@ -10,4 +10,3 @@ Visit the following resources to learn more:
 - [@article@Go by Example - annotated example programs](https://gobyexample.com/)
 - [@article@Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
 - [@video@Go in 100 Seconds](https://www.youtube.com/watch?v=446E-r0rXHI)
-- [@feed@Explore top posts about Golang](https://app.daily.dev/tags/golang?ref=roadmapsh)

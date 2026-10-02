@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@article@Getting Started with Git and GitHub: A Complete Tutorial for Beginner](https://towardsdatascience.com/learn-basic-git-commands-for-your-data-science-works-2a75396d530d/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
 - [@article@Git Cheat Sheet](https://cs.fyi/guide/git-cheatsheet)
 - [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [@feed@Explore top posts about Git](https://app.daily.dev/tags/git?ref=roadmapsh)

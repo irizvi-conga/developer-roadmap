@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@official@Microsoft Azure](https://docs.microsoft.com/en-us/learn/azure/)
 - [@official@Google Cloud Platform](https://cloud.google.com/)
 - [@official@GCP Learning Resources](https://cloud.google.com/training)
-- [@feed@Explore top posts about AWS](https://app.daily.dev/tags/aws?ref=roadmapsh)

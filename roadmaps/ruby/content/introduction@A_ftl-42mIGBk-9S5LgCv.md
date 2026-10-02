@@ -12,4 +12,3 @@ Visit the following resources to learn more:
 - [@article@Learn Ruby Online](https://www.learnrubyonline.org/)
 - [@video@Ruby Programming Language - Full Course](https://www.youtube.com/playlist?list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe)
 - [@video@Masterclass | Ruby Programming in 1 video | Beginners Ruby HandsOn Crash Course Interview FAQs |](https://www.youtube.com/watch?v=xyDoP5a_dvo)
-- [@feed@Explore top posts about Ruby](https://app.daily.dev/tags/ruby?ref=roadmapsh)

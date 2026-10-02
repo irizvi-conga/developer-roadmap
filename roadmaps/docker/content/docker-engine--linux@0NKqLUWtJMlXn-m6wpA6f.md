@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Docker Engine Installation Guide](https://docs.docker.com/engine/install/)
 - [@official@Docker Engine - Docker Documentation](https://docs.docker.com/engine/)
 - [@video@Docker Engine for Linux Servers Setup and Tips](https://www.youtube.com/watch?v=YeF7ObTnDwc)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

@@ -5,4 +5,3 @@ web3.js is a collection of JavaScript libraries that allows you to interact with
 Visit the following resources to learn more:
 
 - [@official@Web3.js Documentation](https://web3js.readthedocs.io/)
-- [@feed@Explore top posts about Web3](https://app.daily.dev/tags/web3?ref=roadmapsh)

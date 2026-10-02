@@ -5,4 +5,3 @@ Linear velocity is the rate of change of an object's position over time, represe
 Visit the following resources to learn more:
 
 - [@article@Linear Velocity](https://byjus.com/physics/linear-velocity/)
-- [@feed@Explore top posts about Math](https://app.daily.dev/tags/math?ref=roadmapsh)

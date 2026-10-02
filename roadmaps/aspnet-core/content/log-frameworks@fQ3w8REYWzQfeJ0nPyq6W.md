@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Implement logging in ASP.NET](https://learn.microsoft.com/en-us/training/modules/aspnet-logging/)
 - [@article@ASP.NET Core: Logging with log4net](https://www.linkedin.com/learning/asp-dot-net-core-logging-with-log4net)
-- [@feed@Explore top posts about Logging](https://app.daily.dev/tags/logging?ref=roadmapsh)

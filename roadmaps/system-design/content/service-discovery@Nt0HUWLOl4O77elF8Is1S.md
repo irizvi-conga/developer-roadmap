@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@opensource@Intro to Service Discovery](https://github.com/donnemartin/system-design-primer#Service-Discovery)
 - [@article@What is Service-oriented architecture?](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-- [@feed@Explore top posts about Architecture](https://app.daily.dev/tags/architecture?ref=roadmapsh)

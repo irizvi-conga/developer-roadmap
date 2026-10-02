@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@APT Package Manager Guide](https://ubuntu.com/server/docs/package-management)
 - [@article@Alpine Linux Package Management](https://wiki.alpinelinux.org/wiki/Alpine_Package_Keeper)
 - [@video@Linux Package Managers Explained](https://www.youtube.com/watch?v=-iSMFoPPbKU)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

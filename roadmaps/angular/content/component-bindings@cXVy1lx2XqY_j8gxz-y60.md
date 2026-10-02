@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Component](https://angular.dev/guide/components)
 - [@official@Basics of Testing Components](https://angular.io/guide/testing-components-basics)
 - [@official@Component Testing Scenarios • Angular](https://angular.dev/guide/testing/components-scenarios)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

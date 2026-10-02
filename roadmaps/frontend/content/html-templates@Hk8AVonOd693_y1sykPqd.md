@@ -5,4 +5,3 @@ The `<template>` HTML element holds hidden content for later use by JavaScript. 
 Visit the following resources to learn more:
 
 - [@article@Using Templates and Slots - MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
-- [@feed@Explore top posts about HTML](https://app.daily.dev/tags/html?ref=roadmapsh)

@@ -5,4 +5,3 @@ Authorization in GraphQL over WebSockets involves validating that a client has t
 Visit the following resources to learn more:
 
 - [@official@Get Started with Authorization](https://graphql.org/learn/authorization/)
-- [@feed@Explore top posts about Authorization](https://app.daily.dev/tags/authorization?ref=roadmapsh)

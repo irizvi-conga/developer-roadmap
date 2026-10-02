@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@article@Go by Example - annotated example programs](https://gobyexample.com/)
 - [@article@Go, the Programming Language of the Cloud](https://thenewstack.io/go-the-programming-language-of-the-cloud/)
 - [@video@Go Programming – Golang Course with Bonus Projects](https://www.youtube.com/watch?v=un6ZyFkqFKo)
-- [@feed@Explore top posts about Golang](https://app.daily.dev/tags/golang?ref=roadmapsh)

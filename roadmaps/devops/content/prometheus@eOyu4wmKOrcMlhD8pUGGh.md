@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Prometheus Website](https://prometheus.io/)
 - [@official@Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
 - [@official@Getting Started with Prometheus](https://prometheus.io/docs/tutorials/getting_started/)
-- [@feed@Explore top posts about Prometheus](https://app.daily.dev/tags/prometheus?ref=roadmapsh)

@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@official@Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
 - [@official@Solana Architecture](https://docs.solana.com/cluster/overview)
 - [@article@What is Solana, and How does it work?](https://cointelegraph.com/news/what-is-solana-and-how-does-it-work)
-- [@feed@Explore top posts about Solana](https://app.daily.dev/tags/solana?ref=roadmapsh)

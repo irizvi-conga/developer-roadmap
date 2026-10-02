@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Docker Desktop Documentation](https://docs.docker.com/desktop/)
 - [@official@Docker Get Started Guide](https://docs.docker.com/get-started/)
 - [@official@Docker Hub](https://hub.docker.com/)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

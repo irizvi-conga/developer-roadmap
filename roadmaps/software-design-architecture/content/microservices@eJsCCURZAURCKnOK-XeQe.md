@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Brief of Microservices](https://microservices.io/patterns/microservices.html)
 - [@video@Tutorial - Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI)
 - [@video@Get started with Microservices Design Patterns](https://www.youtube.com/watch?v=xuH81XGWeGQ)
-- [@feed@Explore top posts about Microservices](https://app.daily.dev/tags/microservices?ref=roadmapsh)

@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@article@The Concept of Domain-Driven Design Explained](https://medium.com/microtica/the-concept-of-domain-driven-design-explained-3184c0fd7c3f)
 - [@video@What is DDD (Domain-Driven Design) ?](https://www.youtube.com/watch?v=Tnecs_7OT74)
 - [@video@Domain-Driven Design patterns for a distributed system](https://www.youtube.com/watch?v=i3d_jzpf0gE)
-- [@feed@Explore top posts about Domain-Driven Design](https://app.daily.dev/tags/domain-driven-design?ref=roadmapsh)

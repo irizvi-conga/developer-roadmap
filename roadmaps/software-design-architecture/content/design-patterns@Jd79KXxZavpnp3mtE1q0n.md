@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@Overview - Software Design Pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
 - [@article@Explaining, imaging and simplifying design patterns](https://refactoring.guru/design-patterns/what-is-pattern)
 - [@video@What Are Design Patterns?](https://www.youtube.com/watch?v=BWprw8UHIzA)
-- [@feed@Explore top posts about Design Patterns](https://app.daily.dev/tags/design-patterns?ref=roadmapsh)

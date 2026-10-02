@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@roadmap@JavaScript Roadmap](https://roadmap.sh/javascript)
 - [@roadmap@Java Roadmap](https://roadmap.sh/java)
 - [@roadmap@Go Roadmap](https://roadmap.sh/golang)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

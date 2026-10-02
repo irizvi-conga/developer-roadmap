@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@5 Ways to Host PostgreSQL Databases](https://www.prisma.io/dataguide/postgresql/5-ways-to-host-postgresql)
 - [@article@Postgres On Kubernetes](https://cloudnative-pg.io/)
-- [@feed@Explore top posts about Cloud](https://app.daily.dev/tags/cloud?ref=roadmapsh)

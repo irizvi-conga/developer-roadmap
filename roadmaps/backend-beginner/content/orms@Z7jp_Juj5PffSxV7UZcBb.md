@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@article@What is an ORM, how does it work, and how should I use one?](https://stackoverflow.com/a/1279678)
 - [@article@What is an ORM](https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/)
 - [@video@Why Use an ORM?](https://www.youtube.com/watch?v=vHt2LC1EM3Q)
-- [@feed@Explore top posts about Backend Development](https://app.daily.dev/tags/backend?ref=roadmapsh)

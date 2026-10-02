@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@official@AWS CDK](https://aws.amazon.com/cdk/)
 - [@official@AWS CDK Documentation](https://docs.aws.amazon.com/cdk/index.html)
 - [@opensource@AWS CDK Examples](https://github.com/aws-samples/aws-cdk-examples)
-- [@feed@Explore top posts about AWS](https://app.daily.dev/tags/aws?ref=roadmapsh)

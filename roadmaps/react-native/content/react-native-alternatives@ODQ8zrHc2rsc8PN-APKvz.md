@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Flutter](https://flutter.dev/)
 - [@official@Ionic](https://ionicframework.com/)
 - [@official@Xamarin](https://dotnet.microsoft.com/apps/xamarin)
-- [@feed@Explore top posts about React](https://app.daily.dev/tags/react?ref=roadmapsh)

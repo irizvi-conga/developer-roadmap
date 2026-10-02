@@ -5,4 +5,3 @@ TypeScript Types define the kind of values a variable can hold. They essentially
 Visit the following resources to learn more:
 
 - [@official@TypeScript - Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
-- [@feed@Explore top posts about TypeScript](https://app.daily.dev/tags/typescript?ref=roadmapsh)

@@ -5,4 +5,3 @@ Native modules in React Native provide a powerful way to access device-specific 
 Visit the following resources to learn more:
 
 - [@official@Android Native Modules](https://reactnative.dev/docs/legacy/native-modules-android)
-- [@feed@Explore top posts about Android](https://app.daily.dev/tags/android?ref=roadmapsh)

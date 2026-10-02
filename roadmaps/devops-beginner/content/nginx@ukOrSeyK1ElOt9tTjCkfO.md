@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@article@Understanding the Nginx Configuration File Structure](https://www.digitalocean.com/community/tutorials/understanding-the-nginx-configuration-file-structure-and-configuration-contexts)
 - [@video@NGINX Full Course](https://www.youtube.com/watch?v=0VGEgXfNMIE)
 - [@video@NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
-- [@feed@Explore top posts about Nginx](https://app.daily.dev/tags/nginx?ref=roadmapsh)

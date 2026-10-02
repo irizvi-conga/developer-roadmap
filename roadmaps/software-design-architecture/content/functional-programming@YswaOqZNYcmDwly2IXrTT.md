@@ -5,4 +5,3 @@ Functional programming is a programming paradigm that treats computation as the 
 Visit the following resources to learn more:
 
 - [@article@What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-- [@feed@Explore top posts about Functional Programming](https://app.daily.dev/tags/functional-programming?ref=roadmapsh)

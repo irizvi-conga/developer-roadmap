@@ -10,4 +10,3 @@ Visit the following resources to learn more:
 - [@official@Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
 - [@article@Create an AWS account](https://grapplingdev.com/tutorials/how-to-create-aws-account)
 - [@video@100 hour AWS Complete Course](https://www.youtube.com/watch?v=zA8guDqfv40)
-- [@feed@Explore top posts about AWS](https://app.daily.dev/tags/aws?ref=roadmapsh)

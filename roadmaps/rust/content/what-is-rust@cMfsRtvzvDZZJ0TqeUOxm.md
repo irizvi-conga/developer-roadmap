@@ -8,4 +8,3 @@ Visit the following resources to learn more:
 - [@official@Rust Programming Language](https://www.rust-lang.org/)
 - [@article@What is Rust and why is it so popular?](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/)
 - [@video@What is Rust?](https://www.youtube.com/watch?v=R33h77nrMqc)
-- [@feed@Explore top posts about Rust](https://app.daily.dev/tags/rust?ref=roadmapsh)

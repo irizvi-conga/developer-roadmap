@@ -10,4 +10,3 @@ Visit the following resources to learn more:
 - [@article@What is Kubernetes?](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
 - [@article@Kubernetes Overview & Essential Reading](https://thenewstack.io/kubernetes/)
 - [@video@Tutorial - Kubernetes](https://www.youtube.com/watch?v=VnvRFRk_51k&t=1sn)
-- [@feed@Explore top posts about Kubernetes](https://app.daily.dev/tags/kubernetes?ref=roadmapsh)

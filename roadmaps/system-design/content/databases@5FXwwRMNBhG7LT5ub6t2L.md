@@ -5,4 +5,3 @@ A database is a structured way to store, retrieve, and manage data for an applic
 Visit the following resources to learn more:
 
 - [@video@Scaling up to your first 10 million users](https://www.youtube.com/watch?v=kKjm4ehYiMs)
-- [@feed@Explore top posts about Backend Development](https://app.daily.dev/tags/backend?ref=roadmapsh)

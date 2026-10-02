@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Quick Start | Vue.js](https://vuejs.org/guide/quick-start.html)
 - [@opensource@vuejs/create-vue](https://github.com/vuejs/create-vue)
-- [@feed@Explore top posts about Vue.js](https://app.daily.dev/tags/vuejs?ref=roadmapsh)

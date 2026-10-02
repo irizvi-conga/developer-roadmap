@@ -5,4 +5,3 @@ Apollo Client is a popular GraphQL client library for JavaScript that provides d
 Visit the following resources to learn more:
 
 - [@article@Why Apollo Client - Frontend?](https://www.howtographql.com/react-apollo/0-introduction/)
-- [@feed@Explore top posts about Apollo](https://app.daily.dev/tags/apollo?ref=roadmapsh)

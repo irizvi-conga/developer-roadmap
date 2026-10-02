@@ -5,4 +5,3 @@ Load balancing algorithms determine how a load balancer picks which server handl
 Visit the following resources to learn more:
 
 - [@article@Types of Load Balancing Algorithms](https://www.cloudflare.com/learning/performance/types-of-load-balancing-algorithms/)
-- [@feed@Explore top posts about Algorithms](https://app.daily.dev/tags/algorithms?ref=roadmapsh)

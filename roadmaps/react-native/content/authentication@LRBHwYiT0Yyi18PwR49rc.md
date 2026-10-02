@@ -5,4 +5,3 @@ Authentication is the process of verifying the identity of a user before grantin
 Visit the following resources to learn more:
 
 - [@official@Authentication and Deep Linking](https://reactnative.dev/docs/security#authentication-and-deep-linking)
-- [@feed@Explore top posts about Authentication](https://app.daily.dev/tags/authentication?ref=roadmapsh)

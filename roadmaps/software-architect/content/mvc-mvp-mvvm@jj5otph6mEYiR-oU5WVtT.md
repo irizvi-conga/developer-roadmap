@@ -5,4 +5,3 @@ MVC, MVP, and MVVM are patterns for separating an application's data, logic, and
 Visit the following resources to learn more:
 
 - [@article@MVC, MVP and MVVM Design Pattern](https://medium.com/@ankit.sinhal/mvc-mvp-and-mvvm-design-pattern-6e169567bbad)
-- [@feed@Explore top posts about General Programming](https://app.daily.dev/tags/general-programming?ref=roadmapsh)

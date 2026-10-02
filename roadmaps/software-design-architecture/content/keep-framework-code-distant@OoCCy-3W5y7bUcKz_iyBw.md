@@ -5,4 +5,3 @@ Keeping framework code distant is a design practice that aims to decouple core b
 Visit the following resources to learn more:
 
 - [@article@Clean architecture](https://pusher.com/tutorials/clean-architecture-introduction/)
-- [@feed@Explore top posts about General Programming](https://app.daily.dev/tags/general-programming?ref=roadmapsh)

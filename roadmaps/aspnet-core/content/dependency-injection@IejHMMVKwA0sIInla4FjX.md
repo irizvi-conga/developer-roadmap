@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@What is Dependency Injection?](https://stackoverflow.com/questions/130794/what-is-dependency-injection)
 - [@article@Dependency Injection, It's Definition & principles](https://www.growin.com/blog/what-is-dependency-injection/)
-- [@feed@Explore top posts about Dependency Injection](https://app.daily.dev/tags/dependency-injection?ref=roadmapsh)

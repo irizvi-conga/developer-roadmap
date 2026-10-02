@@ -5,4 +5,3 @@ Blockchains come in different flavors, each with its own way of handling transac
 Visit the following resources to learn more:
 
 - [@article@Types of Blockchains: PoW, PoS, and Private](https://www.gemini.com/cryptopedia/blockchain-types-pow-pos-private)
-- [@feed@Explore top posts about Blockchain](https://app.daily.dev/tags/blockchain?ref=roadmapsh)

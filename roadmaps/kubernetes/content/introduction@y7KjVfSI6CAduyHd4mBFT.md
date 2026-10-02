@@ -7,4 +7,3 @@ Visit the following resources to learn more:
 - [@official@Kubernetes Documentation](https://kubernetes.io/)
 - [@article@Introduction of Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
 - [@video@Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
-- [@feed@Explore top posts about Kubernetes](https://app.daily.dev/tags/kubernetes?ref=roadmapsh)

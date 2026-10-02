@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@official@Overview of GraphQL HTTP](https://graphql.org/graphql-js/express-graphql/#graphqlhttp)
 - [@official@Get Started with GraphQL HTTP](https://graphql.org/learn/serving-over-http/)
-- [@feed@Explore top posts about GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)

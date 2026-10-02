@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Blockchain Oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
 - [@article@What Is a Blockchain Oracle?](https://chain.link/education/blockchain-oracles)
-- [@feed@Explore top posts about Blockchain](https://app.daily.dev/tags/blockchain?ref=roadmapsh)

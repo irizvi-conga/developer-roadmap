@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@video@What is Rust?](https://www.youtube.com/watch?v=R33h77nrMqc)
 - [@video@Convince your boss to use Rust](https://www.youtube.com/playlist?list=PLZaoyhMXgBzqkaLKR8HHWZaASMvW4gRtZ)
 - [@video@Rust in 100 seconds](https://www.youtube.com/watch?v=5C_HPTJg5ek&pp=ygUNcnVzdCBmaXJlYmFzZQ%3D%3D)
-- [@feed@Explore top posts about Rust](https://app.daily.dev/tags/rust?ref=roadmapsh)

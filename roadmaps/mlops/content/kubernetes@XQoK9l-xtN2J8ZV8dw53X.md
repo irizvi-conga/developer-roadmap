@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@official@Kubernetes Documentation](https://kubernetes.io/docs/home/)
 - [@article@Kubernetes: An Overview](https://thenewstack.io/kubernetes-an-overview/)
 - [@video@Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4)
-- [@feed@Explore top posts about Kubernetes](https://app.daily.dev/tags/kubernetes?ref=roadmapsh)

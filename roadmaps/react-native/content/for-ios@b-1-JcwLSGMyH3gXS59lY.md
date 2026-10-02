@@ -5,4 +5,3 @@ iOS native modules in React Native allow developers to tap into the rich ecosyst
 Visit the following resources to learn more:
 
 - [@official@iOS Native Modules](https://reactnative.dev/docs/legacy/native-modules-ios)
-- [@feed@Explore top posts about iOS](https://app.daily.dev/tags/ios?ref=roadmapsh)

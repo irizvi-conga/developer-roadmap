@@ -5,4 +5,3 @@ Indentation and code style refer to the visual layout and formatting rules appli
 Visit the following resources to learn more:
 
 - [@article@Clean Code – Formatting](https://www.baeldung.com/cs/clean-code-formatting)
-- [@feed@Explore top posts about General Programming](https://app.daily.dev/tags/general-programming?ref=roadmapsh)

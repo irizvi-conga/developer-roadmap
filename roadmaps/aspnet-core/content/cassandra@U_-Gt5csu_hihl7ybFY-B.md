@@ -6,4 +6,3 @@ Visit the following resources to learn more:
 
 - [@article@Introduction to Cassandra](https://www.tutorialspoint.com/cassandra/cassandra_introduction.htm)
 - [@article@Overview of Cassandra in ASP.NET](https://www.spiceworks.com/tech/big-data/articles/what-is-cassandra/)
-- [@feed@Explore top posts about Apache Cassandra](https://app.daily.dev/tags/apache-cassandra?ref=roadmapsh)

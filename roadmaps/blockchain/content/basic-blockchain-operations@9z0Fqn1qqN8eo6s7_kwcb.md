@@ -9,4 +9,3 @@ Visit the following resources to learn more:
 - [@article@Bitcoin Blockchain Transactions](https://developer.bitcoin.org/reference/transactions.html)
 - [@article@Ethereum Blockchain Transactions](https://ethereum.org/en/developers/docs/transactions/)
 - [@video@How Bitcoin Blockchain Actually](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-- [@feed@Explore top posts about Blockchain](https://app.daily.dev/tags/blockchain?ref=roadmapsh)

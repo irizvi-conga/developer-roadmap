@@ -13,4 +13,3 @@ For containers, there are a number of things we may want to do:
 Visit the following resources to learn more:
 
 - [@article@Continuous Integration - Docker](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/04-continuous-integration-github-actions)
-- [@feed@Explore top posts about CI/CD](https://app.daily.dev/tags/cicd?ref=roadmapsh)
