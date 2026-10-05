@@ -5,3 +5,6 @@ Dynamo is NVIDIA's open-source distributed serving platform that sits above infe
 Visit the following resources to learn more:
 
 - [@official@NVIDIA Dynamo Documentation](https://docs.nvidia.com/dynamo/latest/index.html)
+- [@official@NVIDIA Dynamo](https://www.nvidia.com/en-us/ai/dynamo/)
+- [@video@Distributed Inference 101: Getting Started with NVIDIA Dynamo](https://www.youtube.com/watch?v=1bRmskFCnqY)
+- [@video@NVIDIA Dynamo in 5 Minutes: What Is It and Why Now?](https://www.youtube.com/watch?v=mXYFcz27eDw)

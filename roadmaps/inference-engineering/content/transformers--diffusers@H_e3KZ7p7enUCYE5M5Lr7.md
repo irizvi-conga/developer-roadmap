@@ -4,6 +4,7 @@ The transformers and diffusers libraries provide reference implementations of po
 
 Visit the following resources to learn more:
 
-- [@course@Hugging Face Course](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)
 - [@official@Hugging Face Diffusers](https://huggingface.co/docs/diffusers/index)
 - [@official@Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
+- [@course@Hugging Face Course](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)
+- [@video@Getting Started With Hugging Face in 15 Minutes](https://www.youtube.com/watch?v=QEaBAZQCtwE)

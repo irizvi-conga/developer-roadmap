@@ -5,3 +5,5 @@ ONNX Runtime is an open-source inference runtime that executes models exported t
 Visit the following resources to learn more:
 
 - [@official@ONNX Runtime](https://onnxruntime.ai/)
+- [@official@ONNX Runtime Tutorials](https://onnxruntime.ai/docs/tutorials/)
+- [@video@ONNX – open format for machine learning models​](https://www.youtube.com/watch?v=0t2jOBZSd6s)

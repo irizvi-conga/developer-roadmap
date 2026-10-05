@@ -1,3 +1,8 @@
 # SGLang Genai-bench
 
 SGLang Genai-bench is a benchmarking tool built into the SGLang project for measuring LLM inference throughput and latency under realistic request distributions. It supports variable input and output sequence lengths and concurrent request patterns, making it well-suited for validating SGLang and vLLM deployments before production.
+
+Visit the following resources to learn more:
+
+- [@opensource@genai-bench](https://github.com/sgl-project/genai-bench)
+- [@official@GenAI Bench](https://sgl-project.github.io/genai-bench/)

@@ -1,3 +1,9 @@
 # Inference Engines
 
 Inference engines are the core serving layer that takes model weights and handles requests at production scale. They implement continuous batching, memory management, parallelism, and optimization techniques so engineers do not have to implement these from scratch. This group covers the three dominant LLM engines and the orchestration platform that sits above them.
+
+Visit the following resources to learn more:
+
+- [@article@What is an Inference Engine & Why it’s Essential for Scalable AI](https://inference.net/content/inference-engine/)
+- [@article@The AI Engineer's Guide to Inference Engines and Frameworks](https://read.theaimerge.com/p/the-ai-engineers-guide-to-inference)
+- [@video@Why so many inference engines..?](https://www.youtube.com/watch?v=_xM8scs4_x4)

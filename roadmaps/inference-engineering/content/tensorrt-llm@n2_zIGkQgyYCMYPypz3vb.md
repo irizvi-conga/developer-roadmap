@@ -5,3 +5,6 @@ TensorRT-LLM is NVIDIA's inference engine combining PyTorch-based model executio
 Visit the following resources to learn more:
 
 - [@opensource@NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+- [@official@TensorRT-LLM](https://developer.nvidia.com/tensorrt#inference)
+- [@video@TensorRT-LLM is Game Changer](https://www.youtube.com/watch?v=FWhK4O1RXxs)
+- [@video@TensorRT LLM 1.0 Livestream: New Easy-To-Use Pythonic Runtime](https://www.youtube.com/watch?v=sTpQQSbta1k)

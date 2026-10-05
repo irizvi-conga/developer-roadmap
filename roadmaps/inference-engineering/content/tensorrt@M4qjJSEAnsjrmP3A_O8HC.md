@@ -5,3 +5,5 @@ TensorRT is NVIDIA's high-performance inference runtime that compiles PyTorch or
 Visit the following resources to learn more:
 
 - [@official@TensorRT Documentation](https://docs.nvidia.com/deeplearning/tensorrt/)
+- [@opensource@TensorRT](https://github.com/nvidia/tensorrt)
+- [@video@Inference Optimization with NVIDIA TensorRT](https://www.youtube.com/watch?v=UnIuMXGylfY&list=PLDvBZlLoGspySJggUWsdB40SyGjIcxaxp)
