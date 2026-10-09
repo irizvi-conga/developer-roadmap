@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Shellcheck](https://www.shellcheck.net/)
 - [@opensource@Shellcheck](https://github.com/koalaman/shellcheck)
-- [@article@ShellCheck: Script Analysis Tool for Shell Scripts](https://trunk.io/linters/shell/shellcheck)
+- [@article@How to Improve and Debug Your Shell Scripts with ShellCheck](https://linuxconfig.org/how-to-improve-and-debug-your-shell-scripts-with-shellcheck)
 - [@video@Fix Your Shell Scripts With Shellcheck](https://www.youtube.com/watch?v=X3BIc9EHBuk)
