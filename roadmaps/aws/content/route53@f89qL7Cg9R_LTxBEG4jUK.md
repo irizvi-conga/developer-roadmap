@@ -1,6 +1,6 @@
-# Route53
+# Amazon Route 53
 
-DKIM (DomainKeys Identified Mail) adds a cryptographic signature to outgoing emails that recipients can verify. Setting up DKIM in SES involves publishing DNS records with a public key that SES uses to sign your messages. Proper DKIM configuration improves deliverability and is required for compliance with modern email authentication standards.
+Amazon Route 53 is a scalable and highly available Domain Name System (DNS) web service. It translates human-readable domain names into the numerical IP addresses that computers use to connect to each other, while also performing health checks to route traffic to healthy endpoints and managing domain name registrations.
 
 Visit the following resources to learn more:
 
