@@ -4,5 +4,5 @@ Setting up a proper Python environment for data analysis involves choosing a pac
 
 Visit the following resources to learn more:
 
-- [@video@Setting Up A Python Environment for Data Analysis and Machine Learning](https://www.youtube.com/watch?v=NDFMa5FSQuI)
 - [@article@How to Set Environment Variables in Python (Step-by-Step)](https://roadmap.sh/python/set-environment-variable)
+- [@video@Setting Up A Python Environment for Data Analysis and Machine Learning](https://www.youtube.com/watch?v=NDFMa5FSQuI)
