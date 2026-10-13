@@ -4,5 +4,7 @@ Production image generation inference uses SGLang Diffusion, TensorRT, or hand-o
 
 Visit the following resources to learn more:
 
-- [@opensource@ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-- [@article@Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference](https://arxiv.org/abs/2310.04378)
+- [@opensource@Image Generation Inference Mechanics](https://github.com/comfyanonymous/ComfyUI)
+- [@article@What Is Inference in Generative AI: How It Differs From Traditional Model Inference](https://www.gmicloud.ai/en/blog/what-is-inference-in-generative-ai)
+- [@video@Diffusion Models for AI Image Generation](https://www.youtube.com/watch?v=x2GRE-RzmD8)
+- [@video@Why Does Diffusion Work Better than Auto-Regression?](https://www.youtube.com/watch?v=zc5NTeJbk-k)

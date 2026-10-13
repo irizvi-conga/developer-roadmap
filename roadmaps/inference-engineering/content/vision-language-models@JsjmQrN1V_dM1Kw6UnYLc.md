@@ -5,7 +5,6 @@ VLMs combine a large language model with a small vision encoder that converts in
 Visit the following resources to learn more:
 
 - [@course@A Multimodal World - Hugging Face Computer Vision Course](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/a_multimodal_world)
-- [@article@BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)
-- [@article@Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
-- [@article@Segment Anything](https://arxiv.org/abs/2304.02643)
-- [@article@SpecVLM: Fast Speculative Decoding in Vision-Language Models](https://arxiv.org/abs/2509.11815)
+- [@article@Vision Language Models Explained](https://huggingface.co/blog/vlms)
+- [@video@What Are Vision Language Models? How AI Sees & Understands Images](https://www.youtube.com/watch?v=lOD_EE96jhM)
+- [@video@Vision Language Models (VLMs)](https://www.youtube.com/playlist?list=PLg9z7TXgYiH3ZOyOENDy72vLMLrmD50Ze)

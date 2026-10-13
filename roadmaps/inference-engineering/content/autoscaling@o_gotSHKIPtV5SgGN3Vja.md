@@ -4,6 +4,7 @@ Autoscaling dynamically adjusts the number of active model replicas to match inc
 
 Visit the following resources to learn more:
 
-- [@book@Designing Data-Intensive Applications](https://dataintensive.net/)
-- [@book@Site Reliability Engineering](https://sre.google/books/)
-- [@article@The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
+- [@article@Autoscaling endpoints for LLM inference](https://www.together.ai/blog/autoscaling-endpoints-for-llm-inference)
+- [@article@Autoscaling Inference Endpoints](https://apxml.com/courses/mlops-for-large-models-llmops/chapter-4-llm-deployment-serving-optimization/autoscaling-inference-endpoints)
+- [@article@Best practices for autoscaling large language model (LLM) inference workloads](https://docs.cloud.google.com/kubernetes-engine/docs/best-practices/machine-learning/inference/autoscaling)
+- [@video@Autoscaling your AI agent under load](https://www.youtube.com/watch?v=ESIL0Rzl5VQ&t=91s)

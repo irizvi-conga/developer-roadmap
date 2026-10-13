@@ -4,5 +4,8 @@ Speculative decoding takes advantage of spare compute during memory-bound decode
 
 Visit the following resources to learn more:
 
+- [@article@An Introduction to Speculative Decoding for Reducing Latency in AI Inference](https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/)
+- [@article@Speculative Decoding - vLLM](https://docs.vllm.ai/en/latest/features/speculative_decoding/)
 - [@article@Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192)
-- [@article@Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774)
+- [@video@Faster LLMs: Accelerate Inference with Speculative Decoding](https://www.youtube.com/watch?v=VkWlLSTdHs8)
+- [@video@Speculative Decoding: When Two LLMs are Faster than One](https://www.youtube.com/watch?v=S-8yr_RibJ4)

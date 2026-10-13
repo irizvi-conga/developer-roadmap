@@ -4,6 +4,7 @@ Routers make request-level decisions about which replica to send a request to, c
 
 Visit the following resources to learn more:
 
-- [@book@Designing Data-Intensive Applications](https://dataintensive.net/)
-- [@book@Site Reliability Engineering](https://sre.google/books/)
-- [@article@The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
+- [@article@LLM Inference Serving: Architecture, Routing & Auto-Scaling](https://mbrenndoerfer.com/writing/llm-inference-serving-architecture-scaling-optimization)
+- [@article@LLM Model Routing: Route Queries to the Right Model Automatically](https://neuraltrust.ai/blog/llm-model-routing)
+- [@article@LLM Load Balancing: Concepts, Strategies & Best Practices](https://www.truefoundry.com/blog/llm-load-balancing)
+- [@video@Auto Routing Fully Explained](https://www.youtube.com/watch?v=2M47nZbyhac)

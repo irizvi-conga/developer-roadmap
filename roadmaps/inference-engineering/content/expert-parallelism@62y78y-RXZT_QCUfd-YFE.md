@@ -4,5 +4,6 @@ Expert Parallelism distributes MoE experts across GPUs so each GPU hosts multipl
 
 Visit the following resources to learn more:
 
-- [@opensource@NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)
-- [@article@Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)
+- [@article@Expert parallelism](https://huggingface.co/docs/transformers/en/expert_parallelism)
+- [@article@Expert Parallelism: Scaling Mixture-of-Experts Models](https://www.digitalocean.com/community/tutorials/expert-parallelism-in-deep-learning)
+- [@article@Expert Parallelism: Distributing Experts Across Devices](https://apxml.com/courses/mixture-of-experts/chapter-4-scaling-moe-distributed-training/expert-parallelism-moe)

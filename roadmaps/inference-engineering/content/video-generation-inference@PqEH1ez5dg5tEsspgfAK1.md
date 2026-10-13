@@ -6,4 +6,6 @@ Visit the following resources to learn more:
 
 - [@opensource@Cache-DiT](https://github.com/vipshop/cache-dit)
 - [@opensource@TeaCache: Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model](https://github.com/ali-vilab/TeaCache)
-- [@article@SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration](https://arxiv.org/abs/2410.02367)
+- [@article@Video Generation Models](https://www.baseten.co/inference-engineering/book/06-modalities/video-generation-models/)
+- [@article@Video generation - HuggingFace](https://huggingface.co/docs/diffusers/en/using-diffusers/text-img2vid)
+- [@video@How do AI video generation models work?](https://www.youtube.com/watch?v=Y5zHHoLrvAE)

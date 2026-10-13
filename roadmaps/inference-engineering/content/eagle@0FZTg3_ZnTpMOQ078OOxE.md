@@ -7,3 +7,5 @@ Visit the following resources to learn more:
 - [@article@EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty](https://arxiv.org/abs/2401.15077)
 - [@article@EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees](https://arxiv.org/abs/2406.16858)
 - [@article@EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test](https://arxiv.org/abs/2503.01840)
+- [@video@EAGLE and EAGLE-2: Lossless Inference Acceleration for LLMs - Hongyang Zhang](https://www.youtube.com/watch?v=oXRSorx-Llg)
+- [@video@Speculative Decoding, Explained: Why EAGLE-3 Finally Scales | 20-Min Deep Dive](https://www.youtube.com/watch?v=aXdQ3JbRb98)

@@ -5,3 +5,5 @@ Inference dependency chains are long and fragile due to the tight coupling betwe
 Visit the following resources to learn more:
 
 - [@official@Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- [@article@Dependency Management](https://www.baseten.co/inference-engineering/book/07-production/containerization/#dependency-management)
+- [@article@Production in Inference Engineering](https://inferenceengineering.tech/chapters/production/)

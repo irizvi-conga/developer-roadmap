@@ -5,3 +5,6 @@ Inference observability tracks total request volume, input and output sequence l
 Visit the following resources to learn more:
 
 - [@official@NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems)
+- [@article@LLM Observability: A Complete Guide to Monitoring Production Deployments](https://inference.net/content/llm-observability-monitoring-production-deployments/)
+- [@article@What is LLM Observability? The Ultimate Guide for AI Developers](https://www.comet.com/site/blog/llm-observability/)
+- [@article@Understanding LLM Observability](https://clickhouse.com/resources/engineering/llm-observability)

@@ -4,5 +4,5 @@ SGLang Genai-bench is a benchmarking tool built into the SGLang project for meas
 
 Visit the following resources to learn more:
 
-- [@opensource@genai-bench](https://github.com/sgl-project/genai-bench)
 - [@official@GenAI Bench](https://sgl-project.github.io/genai-bench/)
+- [@opensource@genai-bench](https://github.com/sgl-project/genai-bench)

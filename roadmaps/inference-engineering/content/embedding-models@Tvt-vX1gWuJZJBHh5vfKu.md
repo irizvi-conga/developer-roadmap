@@ -8,5 +8,5 @@ Visit the following resources to learn more:
 - [@article@BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [@article@Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)
 - [@article@Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147)
-- [@article@MTEB: Massive Text Embedding Benchmark](https://arxiv.org/abs/2210.07316)
 - [@article@What Are Embedding Models? Benefits and Best Practices](https://cohere.com/blog/embedding-models)
+- [@video@What is an embedding model?](https://www.youtube.com/watch?v=0U1S0WSsPuE)

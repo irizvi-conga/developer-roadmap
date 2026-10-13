@@ -5,6 +5,6 @@ KV cache reuse is the primary caching strategy in LLM inference, covering both p
 Visit the following resources to learn more:
 
 - [@opensource@LMCache](https://github.com/LMCache/LMCache)
-- [@article@CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://arxiv.org/abs/2405.16444)
 - [@article@What is Prompt Caching?](https://www.ibm.com/think/topics/prompt-caching)
 - [@video@What is Prompt Caching? Optimize LLM Latency with AI Transformers](https://www.youtube.com/watch?v=u57EnkQaUTY)
+- [@video@How KV Cache Speeds Up LLMs for Faster AI Models on GPUs](https://www.youtube.com/watch?v=o0gkdZBtwEg&t=1s)

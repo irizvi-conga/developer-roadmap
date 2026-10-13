@@ -4,4 +4,6 @@ N-gram speculation builds a dictionary during prefill that maps token prefixes t
 
 Visit the following resources to learn more:
 
+- [@article@Introducing N-gram Speculative Decoding: Faster Inference for Structured Tasks](https://friendli.ai/blog/n-gram-speculative-decoding)
+- [@article@What is N-gram Speculation in LLMs and How Does It Speed Up Generation?](https://outcomeschool.com/blog/n-gram-speculation-in-llms)
 - [@article@Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://arxiv.org/abs/2402.02057)

@@ -5,3 +5,5 @@ Draft-target speculation uses a small draft model, typically at least ten times 
 Visit the following resources to learn more:
 
 - [@article@Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192)
+- [@article@An Introduction to Speculative Decoding for Reducing Latency in AI Inference](https://developer.nvidia.com/blog/an-introduction-to-speculative-decoding-for-reducing-latency-in-ai-inference/)
+- [@article@Draft-Target Speculative Decoding Simulation](https://www.deep-ml.com/problems/430)
