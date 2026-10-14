@@ -5,5 +5,5 @@ Evaluation pipelines are automated systems for measuring the quality of an AI mo
 Visit the following resources to learn more:
 
 - [@article@LLM evaluation: a beginner's guide](https://www.evidentlyai.com/llm-guide/llm-evaluation)
-- [@article@Building an Evaluation Harness for Production AI Agents:](https://towardsdatascience.com/building-an-evaluation-harness-for-production-ai-agents-a-12-metric-framework-from-100-deployments/)
+- [@article@Building an Evaluation Harness for Production AI Agents](https://towardsdatascience.com/building-an-evaluation-harness-for-production-ai-agents-a-12-metric-framework-from-100-deployments/)
 - [@video@LLM Evaluation course](https://www.youtube.com/watch?v=rHs0sP7b5fM&list=PL9omX6impEuMgDFCK_NleIB0sMzKs2boI)

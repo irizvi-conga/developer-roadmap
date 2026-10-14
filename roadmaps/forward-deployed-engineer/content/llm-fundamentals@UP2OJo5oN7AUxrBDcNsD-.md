@@ -6,4 +6,4 @@ Visit the following resources to learn more:
 
 - [@official@What is a large language model (LLM)?](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/)
 - [@video@How Large Language Models Work](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
-- [@video@Building Large Language Models (LLMs) - Standford University](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+- [@video@Building Large Language Models (LLMs) - Stanford University](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
