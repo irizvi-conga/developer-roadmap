@@ -5,3 +5,4 @@ Inheritance is a fundamental concept in object-oriented programming where a new 
 Visit the following resources to learn more:
 
 - [@official@Python Official Documentation on Inheritance](https://docs.python.org/3/tutorial/classes.html#inheritance)
+- [@article@Python super() and init: Multiple Inheritance Guide](https://roadmap.sh/python/super-init)

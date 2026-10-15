@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Classes in Python](https://docs.python.org/3/tutorial/classes.html)
 - [@article@Encapsulation in Python: All You Need to Know](https://roadmap.sh/python/encapsulation)
+- [@article@Python super() and init: Multiple Inheritance Guide](https://roadmap.sh/python/super-init)
 - [@video@Python OOP Tutorial](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)

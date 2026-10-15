@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Method vs Function in Python](https://www.tutorialspoint.com/difference-between-method-and-function-in-python)
 - [@article@Python - Magic or Dunder Methods](https://www.tutorialsteacher.com/python/magic-methods-in-python)
+- [@article@Python super() and init: Multiple Inheritance Guide](https://roadmap.sh/python/super-init)
