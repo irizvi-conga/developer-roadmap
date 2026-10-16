@@ -1,6 +1,6 @@
 # Permissions
 
-Permissions in React Native are how your app requests access to sensitive user data or device features, like the camera, microphone, or location.  When your app needs to use one of these features, it must first ask the user for permission.  This is done through native modules that interact with the underlying operating system (iOS or Android) to display a permission request dialog. The user can then grant or deny the request, and your app needs to handle both scenarios gracefully.
+Permissions in React Native are how your app requests access to sensitive user data or device features, like the camera, microphone, or location. When your app needs to use one of these features, it must first ask the user for permission. This is done through native modules that interact with the underlying operating system (iOS or Android) to display a permission request dialog. The user can then grant or deny the request, and your app needs to handle both scenarios gracefully.
 
 Visit the following resources to learn more:
 
