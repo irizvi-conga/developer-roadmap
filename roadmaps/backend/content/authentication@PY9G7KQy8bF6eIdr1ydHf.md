@@ -4,10 +4,10 @@ API authentication verifies client identity to ensure only authorized access to 
 
 Visit the following resources to learn more:
 
+- [@course@Broken Authentication: Hands-on Exercise](https://ransomleak.com/exercises/broken-user-authentication/)
 - [@article@Basic Authentication](https://roadmap.sh/guides/basic-authentication)
 - [@article@Session Based Authentication](https://roadmap.sh/guides/session-based-authentication)
 - [@article@Token Based Authentication](https://roadmap.sh/guides/token-authentication)
 - [@article@JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
 - [@article@OAuth - Open Authorization](https://roadmap.sh/guides/oauth)
 - [@article@SSO - Single Sign On](https://roadmap.sh/guides/sso)
-- [@course@Broken Authentication: Hands-on Exercise](https://ransomleak.com/exercises/broken-user-authentication/)
