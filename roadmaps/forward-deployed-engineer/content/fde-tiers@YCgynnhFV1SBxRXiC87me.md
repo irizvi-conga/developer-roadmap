@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@How AI Labs Are Solving The Last Mile Problem](https://www.forbes.com/sites/gelilabekele/2026/09/04/ai-deployment-and-the-forward-deployed-engineering-model/)
 - [@article@Forward Deployed roles: the emerging job family](https://forwarddeployedcreative.com/forward-deployed-roles/)
+- [@article@AI Engineers, Applied Scientists, Forward Deployed Engineers: Let's Unpack.](https://towardsdatascience.com/ai-engineers-applied-scientists-forward-deployed-engineers-lets-unpack/)

@@ -5,3 +5,6 @@ Stakeholder management in FDE work is less about keeping people happy and more a
 Visit the following resources to learn more:
 
 - [@article@Stakeholder Management Guide: Definitions, Processes & More](https://simplystakeholders.com/resources/guides/stakeholder-management/)
+- [@article@Your Ultimate Guide to Effective Stakeholder Management](https://www.boreal-is.com/stakeholder-management-ultimate-guide/)
+- [@video@What is Stakeholder Management? Project Management in Under 5](https://www.youtube.com/watch?v=-tNHplQ_-hw)
+- [@video@How to Manage Difficult Stakeholders \[6 COMMON CHALLENGES\]](https://www.youtube.com/watch?v=NaGhBpfZLzg)

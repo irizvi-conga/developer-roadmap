@@ -4,5 +4,6 @@ A product feedback loop is the cycle of shipping something, collecting feedback 
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated AI Product Builder Roadmap](https://roadmap.sh/ai-product-builder)
 - [@article@What is a product feedback loop (and how do I implement it)?](https://launchdarkly.com/blog/product-feedback-loop/)
 - [@article@Product Feedback Loop: Definition, 5 Steps, Types & Examples (2026)](https://formbricks.com/blog/product-feedback-loop)

@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@How to maximize AI ROI in 2026](https://www.ibm.com/think/insights/ai-roi)
 - [@article@What is ROI and How to Calculate Return on Investment](https://www.esade.edu/beyond/en/what-is-roi-and-how-to-calculate-return-on-investment/)
+- [@article@Forward Deployed Engineering: The Complete Guide for Industrial Companies](https://miragemetrics.com/guides/forward-deployed-engineering)

@@ -5,3 +5,4 @@ Enterprise workflows are the processes and systems through which large organizat
 Visit the following resources to learn more:
 
 - [@article@What is enterprise workflow management?](https://www.manageengine.com/appcreator/enterprise-workflow-management.html)
+- [@article@What Is Workflow Automation? A Guide for Enterprise](https://www.elementum.ai/blog/workflow-automation-enterprise-guide)
