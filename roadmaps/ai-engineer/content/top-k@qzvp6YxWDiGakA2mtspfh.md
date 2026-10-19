@@ -4,5 +4,7 @@ Top-K sampling is a method used by Large Language Models (LLMs) during text gene
 
 Visit the following resources to learn more:
 
-- [@article@Top-K Sampling: The Complete Token Selection Guide](https://www.dataannotation.tech/blog/top-k-sampling)
+- [@article@Understanding Top-K and Top-P in Prompt Engineering:](https://medium.com/@8926581/understanding-top-k-and-top-p-in-prompt-engineering-00a3b93dcd40)
+- [@article@How do Top-k and Top-p Sampling work?](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work)
+- [@article@Mastering Language Models](https://towardsdatascience.com/mastering-language-models-32e1d891511a/#a476)
 - [@video@What are the LLM’s Top-P + Top-K ?](https://www.youtube.com/watch?v=aDmp2Uim0zQ)
