@@ -5,4 +5,5 @@ CompTIA A+ is an entry-level certification for IT professionals that focuses on 
 Visit the following resources to learn more:
 
 - [@official@CompTIA A+](https://www.comptia.org/certifications/a)
+- [@course@Free CompTIA A+ PBQ Practice (220-1201 and 220-1202)](https://www.examwizardz.app/pbq-practice)
 - [@video@CompTIA A+ Course](https://www.youtube.com/watch?v=1CZXXNKAY5o)
