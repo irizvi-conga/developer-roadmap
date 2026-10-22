@@ -6,3 +6,5 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Terraform Roadmap](https://roadmap.sh/terraform)
 - [@article@Terraform Backend: How it Works and How to Configure it](https://roadmap.sh/terraform/backend)
+- [@official@Terraform Docs](https://developer.hashicorp.com/terraform/docs)
+- [@video@Terraform explained in 15 mins | Terraform Tutorial for Beginners](https://www.youtube.com/watch?v=l5k1ai_GBDE)

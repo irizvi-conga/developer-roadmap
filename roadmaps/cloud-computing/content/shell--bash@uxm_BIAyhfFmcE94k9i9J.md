@@ -5,3 +5,4 @@ Bash is the default shell on most Linux systems and the primary language for wri
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Shell/Bash Roadmap](https://roadmap.sh/shell-bash)
+- [@video@Shell Scripting Tutorial for Beginners 1 - Introduction](https://www.youtube.com/watch?v=cQepf9fY6cE)
