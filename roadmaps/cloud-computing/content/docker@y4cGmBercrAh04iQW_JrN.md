@@ -5,3 +5,7 @@ Docker is the most widely used container platform. It provides a CLI and daemon 
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Docker Roadmap](https://roadmap.sh/docker)
+- [@official@Docker Docs](https://docs.docker.com/)
+- [@official@Docker Getting Started Guide](https://docs.docker.com/get-started/)
+- [@course@DevOps with Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)
+- [@video@Docker Tutorial](https://www.youtube.com/watch?v=RqTEHSBrYFw)

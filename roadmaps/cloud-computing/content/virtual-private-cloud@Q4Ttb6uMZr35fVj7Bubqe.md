@@ -7,3 +7,5 @@ Visit the following resources to learn more:
 - [@article@What is a Virtual Network? How it Works and Its Types?](https://www.pynetlabs.com/what-is-a-virtual-network/)
 - [@video@Virtual Private Cloud (VPC) Explained](https://www.youtube.com/watch?v=2fPgKvDBfbs)
 - [@video@Amazon Virtual Private Cloud (VPC) Routing Deep Dive](https://www.youtube.com/watch?v=LJNNMTicv1c)
+- [@official@VPC](https://aws.amazon.com/vpc/)
+- [@video@AWS VPC Beginner to Advanced uses](https://www.youtube.com/watch?v=g2JOHLHh4rI)

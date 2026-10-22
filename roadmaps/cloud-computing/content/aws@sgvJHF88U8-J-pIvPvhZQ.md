@@ -5,3 +5,7 @@ AWS (Amazon Web Services) is the largest cloud provider by market share, launche
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated AWS Roadmap](https://roadmap.sh/aws)
+- [@official@AWS Cloud Essentials](https://aws.amazon.com/getting-started/cloud-essentials/)
+- [@official@Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
+- [@course@AWS Complete Tutorial](https://www.youtube.com/watch?v=B8i49C8fC3E)
+- [@video@100 hour AWS Complete Course](https://www.youtube.com/watch?v=zA8guDqfv40)

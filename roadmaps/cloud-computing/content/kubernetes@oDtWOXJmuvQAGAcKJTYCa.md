@@ -6,3 +6,6 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Kubernetes Roadmap](https://roadmap.sh/kubernetes)
 - [@article@Top 50 Kubernetes Interview Questions and Answers](https://roadmap.sh/questions/kubernetes)
+- [@official@Kubernetes Website](https://kubernetes.io/)
+- [@article@Kubernetes: An Overview](https://thenewstack.io/kubernetes-an-overview/)
+- [@opensource@kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)

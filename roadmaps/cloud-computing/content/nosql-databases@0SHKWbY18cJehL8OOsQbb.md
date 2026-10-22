@@ -5,3 +5,6 @@ NoSQL databases store data in formats other than relational tables: key-value pa
 Visit the following resources to learn more:
 
 - [@article@Types of NoSQL Databases: How to Choose the Right One](https://roadmap.sh/backend/types-of-nosql-databases)
+- [@official@Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
+- [@article@SQL vs. NoSQL Databases: What’s the Difference?](https://www.ibm.com/blog/sql-vs-nosql/)
+- [@article@NoSQL vs. SQL Databases](https://www.mongodb.com/nosql-explained/nosql-vs-sql)

@@ -1,3 +1,7 @@
 # Shared Responsibility Model
  
 The shared responsibility model defines which security tasks the cloud provider handles and which the customer must handle. The provider is responsible for the security of the cloud: physical infrastructure, hardware, hypervisors, and managed service internals. The customer is responsible for security in the cloud: operating systems, application code, data, network configuration, and identity management. The boundary shifts depending on the service model: with IaaS the customer manages more; with SaaS almost everything is the provider's responsibility.
+
+Visit the following resources to learn more:
+
+- [@official@Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
