@@ -4,6 +4,6 @@ Bit Cloud is how humans and AI agents build software autonomously. It enables th
 
 Visit the following resources to learn more:
 
-- [@official@Bit Cloud](https://bit.cloud/products/hope-ai?c=rsh-a)
+- [@official@Bit Cloud](https://bit.cloud/?c=img-bit-rnd&utm_source=roadmap&utm_medium=display&utm_campaign=img-bit-rnd)
 - [@official@Get started](https://bit.cloud/docs?c=rsh-a)
 - [@official@Deployment docs](https://bit.cloud/docs/deployments/deploy-apps?c=rsh-a)
