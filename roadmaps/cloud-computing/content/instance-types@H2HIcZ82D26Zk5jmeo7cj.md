@@ -1,7 +1,9 @@
 # Instance Types
- 
+
 Cloud providers offer a range of instance types to match different workload requirements. Each type provides a specific combination of CPU, memory, storage, and network capacity, organized into families optimized for general use, compute-intensive tasks, memory-heavy applications, or GPU workloads. Selecting the right instance type is one of the most direct levers for managing both performance and cost.
 
 Visit the following resources to learn more:
 
 - [@official@AWS EC2 Instance Types](https://aws.amazon.com/ec2/instance-types)
+- [@article@What Is Cloud Instance Type?](https://www.byteplus.com/en/what-is/cloud-instance-type)
+- [@article@What is Cloud Instance: Types, Benefits & Best Practices](https://amnic.com/blogs/what-is-cloud-instance)

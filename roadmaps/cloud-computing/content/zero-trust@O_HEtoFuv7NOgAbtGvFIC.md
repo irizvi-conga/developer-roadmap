@@ -1,8 +1,9 @@
 # Zero Trust
- 
+
 Zero Trust is a security model based on the principle of never trust, always verify. No user or system is trusted by default, even if they are inside the corporate network. Every request is authenticated, authorized, and validated against policy before access is granted. In cloud environments, Zero Trust is implemented through strong identity verification, least-privilege IAM policies, network micro-segmentation, and continuous monitoring rather than relying on network perimeter as a trust boundary.
 
 Visit the following resources to learn more:
 
 - [@article@What is zero trust?](https://www.ibm.com/think/topics/zero-trust)
+- [@article@Zero Trust security | What is a Zero Trust network?](https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/)
 - [@video@Cybersecurity and Zero Trust](https://www.youtube.com/watch?v=FMMWSLIcaME)

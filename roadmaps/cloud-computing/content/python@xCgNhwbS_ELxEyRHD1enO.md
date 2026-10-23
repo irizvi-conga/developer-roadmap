@@ -1,7 +1,9 @@
 # Python
- 
+
 Python is a general-purpose programming language widely used for scripting, automation, and interacting with cloud APIs. In a cloud context, it is the go-to language for writing infrastructure automation scripts, Lambda functions, CLI tools, and data pipelines. Most cloud provider SDKs (boto3 for AWS, google-cloud for GCP, azure-sdk for Azure) have first-class Python support.
 
 Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Python Roadmap](https://roadmap.sh/python)
+- [@video@Python Full Course for Beginners](https://www.youtube.com/watch?v=K5KVEU3aaeQ)
+- [@video@Day-0 | Python for DevOps Course Syllabus | Learn Python from Basics | #abhishekveeramalla #python](https://www.youtube.com/watch?v=H21U4jX_SLQ&list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv)

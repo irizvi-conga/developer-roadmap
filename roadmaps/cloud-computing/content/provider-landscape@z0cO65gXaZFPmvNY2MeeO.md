@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Cloud Service Provider](https://www.techtarget.com/searchitchannel/definition/cloud-service-provider-cloud-provider)
 - [@article@What are Cloud Providers?](https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers)
+- [@video@Cloud Providers Compared: A Comprehensive Guide to AWS, Azure, and GCP](https://www.youtube.com/watch?v=4AVQchL9tTo)

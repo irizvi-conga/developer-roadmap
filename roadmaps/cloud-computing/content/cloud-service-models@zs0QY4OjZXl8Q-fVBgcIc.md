@@ -4,5 +4,6 @@ Cloud service models are standardized frameworks that define the different ways 
 
 Visit the following resources to learn more:
 
-- [@article@Types of Cloud Computing](https://aws.amazon.com/types-of-cloud-computing/?nc1=h_ls)
+- [@article@PaaS versus IaaS versus SaaS versus CaaS: How are they different?](https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=en)
 - [@video@IaaS vs PaaS vs SaaS cloud service models](https://youtu.be/9CVBohl6w0Q?si=cEDnXpd1sGkpf0K2)
+- [@video@Cloud Computing Services Models - IaaS PaaS SaaS Explained](https://www.youtube.com/watch?v=36zducUX16w)

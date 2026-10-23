@@ -1,7 +1,9 @@
 # Cloud Storage
- 
+
 Cloud storage provides durable, scalable, and managed storage for different types of data and access patterns. Providers offer multiple storage types suited to different use cases: object storage for unstructured data at scale, block storage for low-latency database volumes, and file storage for shared filesystems. Managing the lifecycle and compliance of stored data is as important as choosing the right storage type
 
 Visit the following resources to learn more:
 
-- [@official@Storage Types](https://aws.amazon.com/s3/storage-classes/)
+- [@article@What is cloud storage?](https://www.ibm.com/think/topics/cloud-storage)
+- [@article@What’s the Difference Between Block, Object, and File Storage?](https://aws.amazon.com/compare/the-difference-between-block-file-object-storage/)
+- [@video@Types of Cloud Storage Explained in 5 minutes - Block, File, Object](https://www.youtube.com/watch?v=4Rr8FljgHxA)

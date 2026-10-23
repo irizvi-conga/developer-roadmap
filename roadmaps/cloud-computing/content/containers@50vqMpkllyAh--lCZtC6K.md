@@ -4,6 +4,6 @@ Containers are lightweight, standalone, and executable software packages that in
 
 Visit the following resources to learn more:
 
-- [@article@What are Containers?](https://cloud.google.com/learn/what-are-containers)
+- [@article@What are Cloud Containers?](https://aws.amazon.com/what-is/cloud-containers/)
 - [@article@What is a Container?](https://www.docker.com/resources/what-container/)
 - [@video@What are Containers?](https://www.youtube.com/playlist?list=PLawsLZMfND4nz-WDBZIj8-nbzGFD4S9oz)

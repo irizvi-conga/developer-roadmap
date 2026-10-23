@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Types of Cloud Computing](https://www.redhat.com/en/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud)
 - [@article@Selecting the right cloud for workloads](https://docs.aws.amazon.com/whitepapers/latest/public-sector-cloud-transformation/selecting-the-right-cloud-for-workloads-differences-between-public-private-and-hybrid.html)
+- [@video@Public, Private & Hybrid cloud deployment models](https://www.youtube.com/watch?v=XlNR7myQydI)

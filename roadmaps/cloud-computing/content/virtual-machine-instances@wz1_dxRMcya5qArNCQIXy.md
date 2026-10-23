@@ -1,3 +1,8 @@
-Virtual Machine Instances
- 
+# Virtual Machine Instances
+
 Cloud providers offer a catalog of virtual machine instance types, each with a fixed combination of CPU, memory, and network bandwidth. Instance families are optimized for different workloads: general-purpose instances balance compute and memory, compute-optimized instances have a higher CPU-to-memory ratio for CPU-intensive tasks, memory-optimized instances suit in-memory databases and analytics, and GPU instances are used for machine learning and graphics workloads. Choosing the right instance type directly affects both performance and cost.
+
+Visit the following resources to learn more:
+
+- [@article@What is a Virtual Instances?](https://www.scaleway.com/en/virtual-instances-definition/)
+- [@article@Compute Engine instances](https://docs.cloud.google.com/compute/docs/instances)
