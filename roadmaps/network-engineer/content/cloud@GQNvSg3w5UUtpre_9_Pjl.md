@@ -4,5 +4,6 @@ In networking, the cloud refers to a model of delivering computing resources, su
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated Cloud Computing Roadmap](https://roadmap.sh/cloud-computing)
 - [@article@What is Cloud Networking?](https://aws.amazon.com/what-is/cloud-networking/)
 - [@article@What is cloud networking?](https://www.cloudflare.com/en-gb/learning/cloud/what-is-cloud-networking/)

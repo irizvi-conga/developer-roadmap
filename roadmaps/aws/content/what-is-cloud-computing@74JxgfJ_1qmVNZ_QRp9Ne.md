@@ -4,5 +4,6 @@ Cloud Computing refers to the delivery of computing services over the internet i
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated Cloud Computing Roadmap](https://roadmap.sh/cloud-computing)
 - [@article@What is Cloud Computing - IBM](https://www.ibm.com/topics/cloud-computing)
 - [@article@Cloud Computing - AWS](https://aws.amazon.com/what-is-cloud-computing/)

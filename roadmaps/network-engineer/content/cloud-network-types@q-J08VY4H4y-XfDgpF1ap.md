@@ -4,5 +4,6 @@ Cloud providers offer several types of virtual network constructs that mirror tr
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated Cloud Computing Roadmap](https://roadmap.sh/cloud-computing)
 - [@article@What are the different types of cloud computing?](https://cloud.google.com/discover/types-of-cloud-computing?hl=en)
 - [@video@Types Of Cloud Computing](https://www.youtube.com/watch?v=1BMO7YkwR6Y)

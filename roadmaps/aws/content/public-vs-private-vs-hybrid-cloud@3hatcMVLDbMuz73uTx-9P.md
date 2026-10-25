@@ -4,5 +4,6 @@ Public cloud refers to infrastructure shared across many customers and operated 
 
 Visit the following resources to learn more:
 
+- [@roadmap@Visit the Dedicated Cloud Computing Roadmap](https://roadmap.sh/cloud-computing)
 - [@article@Types of Cloud Computing](https://www.redhat.com/en/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud)
 - [@article@Selecting the right cloud for workloads](https://docs.aws.amazon.com/whitepapers/latest/public-sector-cloud-transformation/selecting-the-right-cloud-for-workloads-differences-between-public-private-and-hybrid.html)
