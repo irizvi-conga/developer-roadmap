@@ -5,3 +5,6 @@ To set up Claude Code, you first install the CLI tool through your terminal usin
 Visit the following resources to learn more:
 
 - [@official@Getting started with Claude Code](https://code.claude.com/docs/en/quickstart)
+- [@official@Installing Claude Code](https://academy.claude.com/courses/claude-code-101/installing-claude-code)
+- [@official@Advanced setup](https://code.claude.com/docs/en/setup)
+- [@video@How to Install Claude Code (for beginners)](https://www.youtube.com/watch?v=QsjrBQK0lTg)

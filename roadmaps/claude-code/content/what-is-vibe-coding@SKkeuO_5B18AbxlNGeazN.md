@@ -6,5 +6,5 @@ Visit the following resources to learn more:
 
 - [@roadmap@Visit the Dedicated Vibe Coding Roadmap](https://roadmap.sh/vibe-coding)
 - [@article@What is vibe coding?](https://www.ibm.com/think/topics/vibe-coding)
+- [@article@Vibe Coding Best Practices: How To Get Consistent Results](https://roadmap.sh/vibe-coding/best-practices)
 - [@video@What Is Vibe Coding? Building Software with Agentic AI](https://www.youtube.com/watch?v=Y68FF_nUSWE)
-- [@video@What is Vibe Coding?](https://www.youtube.com/watch?v=5OWurmg41tI)

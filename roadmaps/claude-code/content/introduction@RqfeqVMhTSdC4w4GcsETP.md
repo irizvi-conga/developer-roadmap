@@ -7,4 +7,5 @@ Visit the following resources to learn more:
 - [@course@Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
 - [@course@Claude Code 101](https://anthropic.skilljar.com/claude-code-101)
 - [@official@Claude Code overview](https://code.claude.com/docs/en/overview)
-- [@official@How Claude Code works](https://code.claude.com/docs/en/how-claude-code-works)
+- [@article@Vibe coding tutorial: Build your first app with Claude Code](https://roadmap.sh/vibe-coding/tutorial)
+- [@video@What is Claude Code?](https://www.youtube.com/watch?v=fl1DSmwQKKY)

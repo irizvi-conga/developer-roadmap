@@ -6,3 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@Claude Code on mobile](https://code.claude.com/docs/en/mobile)
 - [@official@Remote Control](https://code.claude.com/docs/en/remote-control)
+- [@article@Claude Code Remote Control: What Tech Leaders Need to Know](https://www.codebridge.tech/articles/claude-code-remote-control-what-tech-leaders-need-to-know-before-they-use-it-in-real-engineering-work)
+- [@video@Claude Code Remote Control Explained in 5 Minutes (for Beginners)](https://www.youtube.com/watch?v=ukPnYqPVosg)
