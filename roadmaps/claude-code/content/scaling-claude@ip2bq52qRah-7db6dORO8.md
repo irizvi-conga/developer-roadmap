@@ -1,6 +1,6 @@
 # Scaling Claude Code
 
-Claude Code can split work across several agents or sessions. Subagents handle a side task in their own context and return a summary. Agent view lets you send independent sessions to the background and watch them from one screen. Agent teams coordinate multiple sessions through a shared task list and direct messages, led by one lead agent. Worktrees give each parallel session its own git checkout so they never edit the same files. For larger jobs, dynamic workflows orchestrate many subagents from a rerunnable script, and sessions can message each other directly.
+Claude Code offers several ways to parallelize work across multiple agents or sessions. Subagents handle a side task in their own context and return a summary. Agent view lets you send independent sessions to the background and watch them from one screen, and agent teams coordinate multiple sessions through a shared task list and direct messages. Worktrees give each parallel session its own git checkout so they never edit the same files. For larger jobs, dynamic workflows run many subagents from a script, and sessions can message each other directly.
 
 Visit the following resources to learn more:
 

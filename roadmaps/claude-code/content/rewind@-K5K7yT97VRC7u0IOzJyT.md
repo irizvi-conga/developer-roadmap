@@ -1,9 +1,10 @@
 # /rewind
 
-The `/rewind` command is a history management tool that allows you to undo recent turns in your conversation. When executed, it removes the most recent prompt and response from the active context, effectively "winding back" the session to a previous state. This is particularly useful if the AI misunderstood a complex instruction or if a code generation task went in the wrong direction, as it allows you to re-issue the command with better clarity without the baggage of the failed attempt cluttering the model's memory or inflating your token usage.
+The `/rewind` command restores a session to an earlier point. You can rewind the conversation, the code changes, or both, and you can also summarize the conversation from a selected message instead of discarding it. It relies on checkpoints that Claude Code saves automatically before each file edit. The aliases are `/checkpoint` and `/undo`, and pressing `Esc` twice on an empty prompt opens the same menu.
 
 Visit the following resources to learn more:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
 - [@official@Checkpointing](https://code.claude.com/docs/en/checkpointing)
+- [@official@Commands](https://code.claude.com/docs/en/commands)
+- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
 - [@article@Rewind Changes Instantly with Checkpoints](https://wmedia.es/en/tips/rewind-changes-instantly-with-checkpoints)
