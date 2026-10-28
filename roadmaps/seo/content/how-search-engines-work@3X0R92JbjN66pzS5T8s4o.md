@@ -1,6 +1,6 @@
-# How AI is Changing SEO
+# How Search Engines Work
 
-AI systems are changing how people find information, moving some search behavior away from typing keywords into a search bar and toward asking questions directly to a chat interface. This shift means content now needs to work for two audiences: traditional search crawlers and AI systems that retrieve and summarize information. The technical mechanics behind this shift, such as how AI models process and retrieve text, are covered in more depth in the AI Engineer roadmap.
+Search engines function as massive indexing systems that constantly crawl the internet to discover, analyze, and store web content. They use automated software bots, often called spiders or crawlers, to follow links from page to page, gathering information to add to their vast databases. Once this data is collected, complex algorithms evaluate the content based on various factors to determine its relevance and quality, ultimately organizing it so that the most helpful results can be retrieved instantly when a user enters a search query.
 
 Visit the following resources to learn more:
 

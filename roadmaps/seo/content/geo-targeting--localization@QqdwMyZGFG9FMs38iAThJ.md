@@ -1,3 +1,8 @@
-# Branded vs Non-Branded
+# Geo-Targeting & Localization
 
-Branded queries are searches that include a company's name, such as "Nike running shoes," while non-branded queries are generic searches without it, such as "best running shoes." Tracking the split between the two shows whether traffic is coming mostly from people who already know the brand or from people discovering it for the first time.
+Geo-targeting is signaling to search engines which country or region a page is intended for, while localization is adapting the page itself for that audience, including language, currency, spelling, and units. Signals such as hreflang annotations, a country-specific domain or URL structure, and genuinely localized content help search engines serve the right version of a page to the right users.
+
+Visit the following resources to learn more:
+
+- [@official@Localized versions of your pages](https://developers.google.com/search/docs/specialty/international/localized-versions)
+- [@official@Managing multi-regional and multilingual sites](https://developers.google.com/search/docs/specialty/international/managing-multi-regional-sites)

@@ -1,6 +1,6 @@
-# Google-Extended
+# PerplexityBot
 
-Google-Extended is a specific crawler control that lets a website choose whether Google can use its content to train Gemini and improve AI features like AI Overviews, separately from whether the site allows normal Googlebot crawling for search. Blocking it does not affect a site's regular search rankings, but can affect its visibility inside Google's AI-generated answers.
+PerplexityBot is the crawler operated by Perplexity, used to gather live web content when generating answers for its AI-powered search product. It can be allowed or blocked through a site's robots.txt file, similar to other AI crawlers.
 
 Visit the following resources to learn more:
 

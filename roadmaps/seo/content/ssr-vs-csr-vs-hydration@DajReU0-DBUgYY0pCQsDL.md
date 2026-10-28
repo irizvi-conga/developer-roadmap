@@ -1,6 +1,6 @@
-# Canonicalization
+# SSR vs CSR vs Hydration
 
-Canonicalization is the process of telling search engines which URL is the official version of a page when the same content is reachable through more than one URL, such as with or without a tracking parameter. Without this, a search engine might treat duplicate versions of a page as separate, unrelated pages and split ranking signals between them.
+Server-side rendering, or SSR, generates a page's full HTML on the server before sending it to the browser, so crawlers receive complete content immediately. Client-side rendering, or CSR, sends a mostly empty page and builds the content using JavaScript in the browser, which can be harder for some crawlers to process. Hydration is a hybrid approach where a server-rendered page is sent first, then JavaScript takes over in the browser to make it interactive, aiming to combine the crawlability of SSR with the interactivity of CSR.
 
 Visit the following resources to learn more:
 

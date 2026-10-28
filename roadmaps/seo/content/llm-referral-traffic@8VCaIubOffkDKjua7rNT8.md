@@ -1,3 +1,3 @@
-# Microsoft Clarity
+# LLM Referral Traffic
 
-Microsoft Clarity is a free analytics tool that provides heatmaps and session recordings, showing how visitors actually move through and interact with a page, rather than just reporting traffic numbers.
+LLM referral traffic is website visits that originate specifically from a link clicked inside an AI chat assistant's response, such as a source cited by ChatGPT or Perplexity. Tracking it separately from other referral traffic shows how much real, measurable value AI visibility is actually generating.

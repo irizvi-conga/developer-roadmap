@@ -1,3 +1,7 @@
-# Local Search Signals
+# Local Landing Pages
 
-Local search signals are the ongoing factors that actively move local rankings up or down after the basic setup is in place, including how reviews accumulate, links from locally relevant sites, visibility in the map-based local pack, and strategies for businesses serving multiple locations or areas without a storefront.
+Local landing pages are dedicated pages for each location or service area a business serves, containing details specific to that place such as address, opening hours, services offered, local reviews, and an embedded map. They work best when each page has genuinely unique content rather than a template with only the city name swapped, which risks being treated as thin or duplicate content.
+
+Visit the following resources to learn more:
+
+- [@official@Local business structured data](https://developers.google.com/search/docs/appearance/structured-data/local-business)
