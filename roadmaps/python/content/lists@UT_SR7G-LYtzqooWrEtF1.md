@@ -7,4 +7,4 @@ Visit the following resources to learn more:
 - [@official@Python Official Documentation on Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
 - [@article@Python for Beginners: Lists](https://thenewstack.io/python-for-beginners-lists/)
 - [@article@Python Remove from List: Full Guide + Examples](https://roadmap.sh/python/remove-item-from-list)
-- [@video@Difference Between List, Tuple, Set and Dictionary in Python](https://www.youtube.com/watch?v=n0krwG38SHI)
+- [@video@Lists in Python](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjSgal6OIEfzK4upXvkHSxW)
