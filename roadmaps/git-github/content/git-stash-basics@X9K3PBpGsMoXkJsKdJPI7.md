@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [@article@Git stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
 - [@article@A practical guide to using the git stash command](https://opensource.com/article/21/4/git-stash)
+- [@course@git stash, step by step (Interactive Lesson)](https://gitualize.com/commands/git-stash)

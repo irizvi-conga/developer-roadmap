@@ -5,4 +5,5 @@
 Visit the following resources to learn more:
 
 - [@article@Git Revert](https://medium.com/@meghasharmaa704/git-revert-84727b543c17)
+- [@course@git revert, step by step (Interactive Lesson)](https://gitualize.com/commands/git-revert)
 - [@video@Git Revert - Visualised](https://www.youtube.com/watch?v=XJqQPNudPSY)

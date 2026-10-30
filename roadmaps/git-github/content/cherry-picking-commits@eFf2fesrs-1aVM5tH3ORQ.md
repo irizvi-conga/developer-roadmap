@@ -6,4 +6,5 @@ Visit the following resources to learn more:
 
 - [@official@git-cherry-pick docs](https://git-scm.com/docs/git-cherry-pick)
 - [@article@Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick)
+- [@course@git cherry-pick, step by step (Interactive Lesson)](https://gitualize.com/commands/git-cherry-pick)
 - [@video@Git Cherry Pick - Tutorial](https://youtu.be/i657Bg_HAWI?si=3jjn2X8Hi1na--F4)
